@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel (@dhufe)
 - 👀 I’m interested in physics (in particular acoustics)
-- 🌱 I’m currently learning...
+- 🌱 I’m currently learning: JAVA :)
 - 
 <!---
 dhufe/dhufe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
