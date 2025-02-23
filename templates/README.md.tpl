@@ -13,6 +13,11 @@
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
+#### ⭐ Recent Stars
+{{range recentStars 10}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
+{{- end}}
+
 ### 📝 My recent blog posts
 
 {{range rss "https://www.hufschlaeger.de/index.xml" 5}}
