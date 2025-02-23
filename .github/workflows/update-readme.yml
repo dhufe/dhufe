@@ -16,6 +16,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
+          architecture: 'arm64'
           template: "templates/README.md.tpl"
           writeTo: "README.md"
 
