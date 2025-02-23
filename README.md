@@ -32,6 +32,7 @@
 
 #### ⭐ Recent Stars
 
+- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page (today)
 - [HEIGE-PCloud/DoIt](https://github.com/HEIGE-PCloud/DoIt) - A clean, elegant and advanced blog theme for Hugo. (today)
 - [enesagu/Object_detection_fastAPI_docker](https://github.com/enesagu/Object_detection_fastAPI_docker) - The project is a Dockerized microservice utilizing YOLO for object detection, managed with Docker Compose. It exposes a REST API for detection tasks, ensuring scalability and ease of deployment. Developed with FastAPI, it accurately detects and reports objects within images, prioritizing code quality, containerization efficiency, and clear document (today)
 
