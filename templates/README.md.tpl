@@ -12,6 +12,11 @@
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
+#### 🍴 My recent forks
+{{range recentForks 10}}
+- [{{.Name}}]({{.URL}}) - {{.Description}}
+{{- end}}
+
 #### 🌱 My latest projects
 
 {{range recentRepos 10}}
