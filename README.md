@@ -24,6 +24,11 @@
 - [dhufe/2d_ftdt_acoustics](https://github.com/dhufe/2d_ftdt_acoustics) - 
 - [dhufe/pyhelpertool](https://github.com/dhufe/pyhelpertool) - A collection of helping tools and implementations.
 
+#### ⭐ Recent Stars
+
+- [HEIGE-PCloud/DoIt](https://github.com/HEIGE-PCloud/DoIt) - A clean, elegant and advanced blog theme for Hugo. (today)
+- [enesagu/Object_detection_fastAPI_docker](https://github.com/enesagu/Object_detection_fastAPI_docker) - The project is a Dockerized microservice utilizing YOLO for object detection, managed with Docker Compose. It exposes a REST API for detection tasks, ensuring scalability and ease of deployment. Developed with FastAPI, it accurately detects and reports objects within images, prioritizing code quality, containerization efficiency, and clear document (today)
+
 ### 📝 My recent blog posts
 
 
