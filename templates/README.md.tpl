@@ -18,11 +18,6 @@
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
-#### 🍴 My recent forks
-{{range recentForks 10}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
-{{- end}}
-
 ### 📝 My recent blog posts
 
 {{range rss "https://www.hufschlaeger.de/index.xml" 5}}
