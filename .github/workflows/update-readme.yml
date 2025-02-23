@@ -12,11 +12,11 @@ jobs:
     steps:
       - uses: actions/checkout@master
 
-      - uses: dhufe/readme-scribe@master
+      #- uses: dhufe/readme-scribe@master
+      - uses: muesli/readme-scribe@master
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
-          platforms: 'arm64'
           template: "templates/README.md.tpl"
           writeTo: "README.md"
 
