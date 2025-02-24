@@ -4,6 +4,7 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [dhufe/cpp_challenge](https://github.com/dhufe/cpp_challenge) - Source code for the c++ challenge (today)
 - [KarstenSuess/design_pattern_example](https://github.com/KarstenSuess/design_pattern_example) -  (1 month ago)
 - [dhufe/mkdocs-demo](https://github.com/dhufe/mkdocs-demo) -  (9 months ago)
 - [dhufe/blha_application](https://github.com/dhufe/blha_application) -  (10 months ago)
