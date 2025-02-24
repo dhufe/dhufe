@@ -24,7 +24,7 @@
 - [dhufe/java_playground](https://github.com/dhufe/java_playground) - Just for playing with JAVA snippets.
 - [dhufe/codewars](https://github.com/dhufe/codewars) - 🍻 CodeWars Solutions
 - [dhufe/blha_application](https://github.com/dhufe/blha_application) - 
-- [dhufe/cpp_challenge](https://github.com/dhufe/cpp_challenge) - Source code for the c&#43;&#43; challenge
+- [dhufe/cpp_challenge](https://github.com/dhufe/cpp_challenge) - Source code for the c++ challenge
 - [dhufe/MATLAB](https://github.com/dhufe/MATLAB) - MATLAB helper scripts and functions
 - [dhufe/GPSS](https://github.com/dhufe/GPSS) - Generalized point source synthesis.
 - [dhufe/2d_ftdt_acoustics](https://github.com/dhufe/2d_ftdt_acoustics) - 
@@ -42,5 +42,5 @@
 - [Linkdump 27/2024](https://hufschlaeger.net/linkdump-kw27/) (7 months ago)
 - [Caclulating QR-Code URLs for the Actimel/Pokémon lottery](https://hufschlaeger.net/poke-lottery/) (8 months ago)
 - [Linkdump 26/2024](https://hufschlaeger.net/linkdump-kw26/) (9 months ago)
-- [Suche nach den ersten hundert Primzahlen in C&#43;&#43;](https://hufschlaeger.net/cpp-prime-numbers/) (4 years ago)
+- [Suche nach den ersten hundert Primzahlen in C++](https://hufschlaeger.net/cpp-prime-numbers/) (4 years ago)
 - [Atmel ICE and OS X no 4](https://hufschlaeger.net/atmelice-and-os-x-4/) (6 years ago)
