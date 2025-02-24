@@ -10,12 +10,6 @@
 - [dhufe/docker-python-app](https://github.com/dhufe/docker-python-app) - 🐳 Docker image to deploy a 🐍 Python app hosted on a Git repository (10 months ago)
 - [dhufe/java_playground](https://github.com/dhufe/java_playground) - Just for playing with JAVA snippets. (11 months ago)
 
-#### 🔨 My recent Pull Requests
-
-- [Fixing autocomplete and adding citation extraction](https://github.com/mangecoeur/Citer/pull/43) on [mangecoeur/Citer](https://github.com/mangecoeur/Citer) (3 years ago)
-- [Fixing projectbased bibliography file settings.](https://github.com/sjpfenninger/citebibtex/pull/20) on [sjpfenninger/citebibtex](https://github.com/sjpfenninger/citebibtex) (3 years ago)
-- [Adding projectbased bibtex-file option.](https://github.com/mangecoeur/Citer/pull/42) on [mangecoeur/Citer](https://github.com/mangecoeur/Citer) (3 years ago)
-
 #### 🌱 My latest projects
 
 
@@ -29,6 +23,29 @@
 - [dhufe/GPSS](https://github.com/dhufe/GPSS) - Generalized point source synthesis.
 - [dhufe/2d_ftdt_acoustics](https://github.com/dhufe/2d_ftdt_acoustics) - 
 - [dhufe/pyhelpertool](https://github.com/dhufe/pyhelpertool) - A collection of helping tools and implementations.
+
+#### 🔨 My recent Pull Requests
+
+- [Fixing autocomplete and adding citation extraction](https://github.com/mangecoeur/Citer/pull/43) on [mangecoeur/Citer](https://github.com/mangecoeur/Citer) (3 years ago)
+- [Fixing projectbased bibliography file settings.](https://github.com/sjpfenninger/citebibtex/pull/20) on [sjpfenninger/citebibtex](https://github.com/sjpfenninger/citebibtex) (3 years ago)
+- [Adding projectbased bibtex-file option.](https://github.com/mangecoeur/Citer/pull/42) on [mangecoeur/Citer](https://github.com/mangecoeur/Citer) (3 years ago)
+
+#### 📓 Gists I wrote
+
+- [MS8607 sensor readings (humidity, temperature and ambient pressure) in python](https://gist.github.com/e536efcbcf6dde544f20d1cade238dc3) (7 years ago)
+
+#### 🍴 My recent forks
+
+- [dhufe/markscribe](https://github.com/dhufe/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) & RSS powers 📜
+- [dhufe/readme-scribe](https://github.com/dhufe/readme-scribe) - A GitHub Action that automatically generates & updates markdown content (like your README.md)
+- [dhufe/DoIt](https://github.com/dhufe/DoIt) - A clean, elegant and advanced blog theme for Hugo.
+- [dhufe/OctoPrint-GpioControl](https://github.com/dhufe/OctoPrint-GpioControl) - 
+- [dhufe/citebibtex](https://github.com/dhufe/citebibtex) - Effortlessly insert citations from BibTeX into texts written in Pandoc or LaTeX
+- [dhufe/Citer](https://github.com/dhufe/Citer) -  Citations from bibtex for Sublime Text 3
+- [dhufe/vim-zettel](https://github.com/dhufe/vim-zettel) - VimWiki addon for managing notes according to Zettelkasten method
+- [dhufe/FirIA](https://github.com/dhufe/FirIA) - iA Writer Template
+- [dhufe/zetteltools](https://github.com/dhufe/zetteltools) - 
+- [dhufe/hugo-coder](https://github.com/dhufe/hugo-coder) - A minimalist blog theme for hugo.
 
 #### ⭐ Recent Stars
 
