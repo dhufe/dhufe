@@ -4,7 +4,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [dhufe/cpp_challenge](https://github.com/dhufe/cpp_challenge) - Source code for the c++ challenge (today)
+- [dhufe/cpp_challenge](https://github.com/dhufe/cpp_challenge) - Source code for the c++ challenge (1 day ago)
 - [KarstenSuess/design_pattern_example](https://github.com/KarstenSuess/design_pattern_example) -  (1 month ago)
 - [dhufe/mkdocs-demo](https://github.com/dhufe/mkdocs-demo) -  (9 months ago)
 - [dhufe/blha_application](https://github.com/dhufe/blha_application) -  (10 months ago)
@@ -50,9 +50,9 @@
 
 #### ⭐ Recent Stars
 
-- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page (1 day ago)
-- [HEIGE-PCloud/DoIt](https://github.com/HEIGE-PCloud/DoIt) - A clean, elegant and advanced blog theme for Hugo. (1 day ago)
-- [enesagu/Object_detection_fastAPI_docker](https://github.com/enesagu/Object_detection_fastAPI_docker) - The project is a Dockerized microservice utilizing YOLO for object detection, managed with Docker Compose. It exposes a REST API for detection tasks, ensuring scalability and ease of deployment. Developed with FastAPI, it accurately detects and reports objects within images, prioritizing code quality, containerization efficiency, and clear document (1 day ago)
+- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page (2 days ago)
+- [HEIGE-PCloud/DoIt](https://github.com/HEIGE-PCloud/DoIt) - A clean, elegant and advanced blog theme for Hugo. (2 days ago)
+- [enesagu/Object_detection_fastAPI_docker](https://github.com/enesagu/Object_detection_fastAPI_docker) - The project is a Dockerized microservice utilizing YOLO for object detection, managed with Docker Compose. It exposes a REST API for detection tasks, ensuring scalability and ease of deployment. Developed with FastAPI, it accurately detects and reports objects within images, prioritizing code quality, containerization efficiency, and clear document (2 days ago)
 
 ### 📝 My recent blog posts
 
