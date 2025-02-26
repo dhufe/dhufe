@@ -27,6 +27,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [recentStars does not return](https://github.com/muesli/markscribe/pull/99) on [muesli/markscribe](https://github.com/muesli/markscribe) (today)
 - [Fixing autocomplete and adding citation extraction](https://github.com/mangecoeur/Citer/pull/43) on [mangecoeur/Citer](https://github.com/mangecoeur/Citer) (3 years ago)
 - [Fixing projectbased bibliography file settings.](https://github.com/sjpfenninger/citebibtex/pull/20) on [sjpfenninger/citebibtex](https://github.com/sjpfenninger/citebibtex) (3 years ago)
 - [Adding projectbased bibtex-file option.](https://github.com/mangecoeur/Citer/pull/42) on [mangecoeur/Citer](https://github.com/mangecoeur/Citer) (3 years ago)
