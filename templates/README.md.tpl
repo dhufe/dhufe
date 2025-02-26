@@ -18,6 +18,11 @@
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
+#### 🔨 My recent Issues
+{{range recentIssues 10}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Title}} ({{humanize .OccurredAt}})
+{{- end}}
+
 #### 📓 Gists I wrote
 {{range gists 5}}
 - [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
