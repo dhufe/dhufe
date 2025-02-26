@@ -31,6 +31,10 @@
 - [Fixing projectbased bibliography file settings.](https://github.com/sjpfenninger/citebibtex/pull/20) on [sjpfenninger/citebibtex](https://github.com/sjpfenninger/citebibtex) (3 years ago)
 - [Adding projectbased bibtex-file option.](https://github.com/mangecoeur/Citer/pull/42) on [mangecoeur/Citer](https://github.com/mangecoeur/Citer) (3 years ago)
 
+#### 🔨 My recent Issues
+
+- [Landesarchiv-Thueringen/x-man](https://github.com/Landesarchiv-Thueringen/x-man) - x-man WebDAV URL is missing the exposed port (9 months ago)
+
 #### 📓 Gists I wrote
 
 - [MS8607 sensor readings (humidity, temperature and ambient pressure) in python](https://gist.github.com/e536efcbcf6dde544f20d1cade238dc3) (7 years ago)
