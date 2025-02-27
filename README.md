@@ -4,7 +4,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [dhufe/cpp_challenge](https://github.com/dhufe/cpp_challenge) - Source code for the c++ challenge (2 days ago)
+- [dhufe/cpp_challenge](https://github.com/dhufe/cpp_challenge) - Source code for the c++ challenge (3 days ago)
 - [KarstenSuess/design_pattern_example](https://github.com/KarstenSuess/design_pattern_example) -  (1 month ago)
 - [dhufe/mkdocs-demo](https://github.com/dhufe/mkdocs-demo) -  (9 months ago)
 - [dhufe/blha_application](https://github.com/dhufe/blha_application) -  (10 months ago)
@@ -27,8 +27,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Adding RenderString for render emoticons inside the footer.](https://github.com/HEIGE-PCloud/DoIt/pull/1446) on [HEIGE-PCloud/DoIt](https://github.com/HEIGE-PCloud/DoIt) (today)
-- [recentStars does not return](https://github.com/muesli/markscribe/pull/99) on [muesli/markscribe](https://github.com/muesli/markscribe) (today)
+- [Adding RenderString for render emoticons inside the footer.](https://github.com/HEIGE-PCloud/DoIt/pull/1446) on [HEIGE-PCloud/DoIt](https://github.com/HEIGE-PCloud/DoIt) (1 day ago)
+- [recentStars does not return](https://github.com/muesli/markscribe/pull/99) on [muesli/markscribe](https://github.com/muesli/markscribe) (1 day ago)
 - [Fixing autocomplete and adding citation extraction](https://github.com/mangecoeur/Citer/pull/43) on [mangecoeur/Citer](https://github.com/mangecoeur/Citer) (3 years ago)
 - [Fixing projectbased bibliography file settings.](https://github.com/sjpfenninger/citebibtex/pull/20) on [sjpfenninger/citebibtex](https://github.com/sjpfenninger/citebibtex) (3 years ago)
 - [Adding projectbased bibtex-file option.](https://github.com/mangecoeur/Citer/pull/42) on [mangecoeur/Citer](https://github.com/mangecoeur/Citer) (3 years ago)
@@ -56,10 +56,10 @@
 
 #### ⭐ Recent Stars
 
-- [LibraryOfCongress/bagit-java](https://github.com/LibraryOfCongress/bagit-java) - Java library to support the BagIt specification. (today)
-- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page (3 days ago)
-- [HEIGE-PCloud/DoIt](https://github.com/HEIGE-PCloud/DoIt) - A clean, elegant and advanced blog theme for Hugo. (3 days ago)
-- [enesagu/Object_detection_fastAPI_docker](https://github.com/enesagu/Object_detection_fastAPI_docker) - The project is a Dockerized microservice utilizing YOLO for object detection, managed with Docker Compose. It exposes a REST API for detection tasks, ensuring scalability and ease of deployment. Developed with FastAPI, it accurately detects and reports objects within images, prioritizing code quality, containerization efficiency, and clear document (3 days ago)
+- [LibraryOfCongress/bagit-java](https://github.com/LibraryOfCongress/bagit-java) - Java library to support the BagIt specification. (1 day ago)
+- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page (4 days ago)
+- [HEIGE-PCloud/DoIt](https://github.com/HEIGE-PCloud/DoIt) - A clean, elegant and advanced blog theme for Hugo. (4 days ago)
+- [enesagu/Object_detection_fastAPI_docker](https://github.com/enesagu/Object_detection_fastAPI_docker) - The project is a Dockerized microservice utilizing YOLO for object detection, managed with Docker Compose. It exposes a REST API for detection tasks, ensuring scalability and ease of deployment. Developed with FastAPI, it accurately detects and reports objects within images, prioritizing code quality, containerization efficiency, and clear document (4 days ago)
 
 ### 📝 My recent blog posts
 
