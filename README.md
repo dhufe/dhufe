@@ -57,6 +57,7 @@
 
 #### ⭐ Recent Stars
 
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (today)
 - [d2r2/go-i2c](https://github.com/d2r2/go-i2c) - Implementation of I2C-bus written in Golang. Forked from davecheney/i2c. (3 days ago)
 - [LibraryOfCongress/bagit-java](https://github.com/LibraryOfCongress/bagit-java) - Java library to support the BagIt specification. (5 days ago)
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page (1 week ago)
