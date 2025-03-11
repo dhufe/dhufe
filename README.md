@@ -4,7 +4,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [dhufe/java_playground](https://github.com/dhufe/java_playground) - Just for playing with JAVA snippets. (6 days ago)
+- [dhufe/java_playground](https://github.com/dhufe/java_playground) - Just for playing with JAVA snippets. (1 week ago)
 - [dhufe/hgylib](https://github.com/dhufe/hgylib) - POC code for converting HILGUS data to MATLAB (or other file formats) (1 week ago)
 - [dhufe/cpp_challenge](https://github.com/dhufe/cpp_challenge) - Source code for the c++ challenge (2 weeks ago)
 - [KarstenSuess/design_pattern_example](https://github.com/KarstenSuess/design_pattern_example) -  (1 month ago)
@@ -68,7 +68,7 @@
 
 
 - [Linkdump 27/2024](https://hufschlaeger.net/linkdump-kw27/) (8 months ago)
-- [Caclulating QR-Code URLs for the Actimel/Pokémon lottery](https://hufschlaeger.net/poke-lottery/) (8 months ago)
+- [Caclulating QR-Code URLs for the Actimel/Pokémon lottery](https://hufschlaeger.net/poke-lottery/) (9 months ago)
 - [Linkdump 26/2024](https://hufschlaeger.net/linkdump-kw26/) (10 months ago)
 - [Suche nach den ersten hundert Primzahlen in C++](https://hufschlaeger.net/cpp-prime-numbers/) (4 years ago)
 - [Atmel ICE and OS X no 4](https://hufschlaeger.net/atmelice-and-os-x-4/) (6 years ago)
