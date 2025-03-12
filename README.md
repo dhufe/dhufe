@@ -4,11 +4,11 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [dhufe/mkdocs-demo](https://github.com/dhufe/mkdocs-demo) -  (today)
 - [dhufe/java_playground](https://github.com/dhufe/java_playground) - Just for playing with JAVA snippets. (1 week ago)
 - [dhufe/hgylib](https://github.com/dhufe/hgylib) - POC code for converting HILGUS data to MATLAB (or other file formats) (1 week ago)
 - [dhufe/cpp_challenge](https://github.com/dhufe/cpp_challenge) - Source code for the c++ challenge (2 weeks ago)
 - [KarstenSuess/design_pattern_example](https://github.com/KarstenSuess/design_pattern_example) -  (1 month ago)
-- [dhufe/mkdocs-demo](https://github.com/dhufe/mkdocs-demo) -  (9 months ago)
 - [dhufe/blha_application](https://github.com/dhufe/blha_application) -  (11 months ago)
 - [dhufe/docker-python-app](https://github.com/dhufe/docker-python-app) - 🐳 Docker image to deploy a 🐍 Python app hosted on a Git repository (11 months ago)
 
