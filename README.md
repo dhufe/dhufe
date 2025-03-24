@@ -4,6 +4,7 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [dhufe/go-ssd1305](https://github.com/dhufe/go-ssd1305) -  (today)
 - [dhufe/mkdocs-demo](https://github.com/dhufe/mkdocs-demo) -  (1 week ago)
 - [dhufe/java_playground](https://github.com/dhufe/java_playground) - Just for playing with JAVA snippets. (2 weeks ago)
 - [dhufe/hgylib](https://github.com/dhufe/hgylib) - POC code for converting HILGUS data to MATLAB (or other file formats) (3 weeks ago)
@@ -15,6 +16,7 @@
 #### 🌱 My latest projects
 
 
+- [dhufe/go-ssd1305](https://github.com/dhufe/go-ssd1305) - 
 - [dhufe/mkdocs-demo](https://github.com/dhufe/mkdocs-demo) - 
 - [dhufe/docker-python-app](https://github.com/dhufe/docker-python-app) - 🐳 Docker image to deploy a 🐍 Python app hosted on a Git repository
 - [dhufe/java_playground](https://github.com/dhufe/java_playground) - Just for playing with JAVA snippets.
@@ -24,7 +26,6 @@
 - [dhufe/MATLAB](https://github.com/dhufe/MATLAB) - MATLAB helper scripts and functions
 - [dhufe/GPSS](https://github.com/dhufe/GPSS) - Generalized point source synthesis.
 - [dhufe/2d_ftdt_acoustics](https://github.com/dhufe/2d_ftdt_acoustics) - 
-- [dhufe/pyhelpertool](https://github.com/dhufe/pyhelpertool) - A collection of helping tools and implementations.
 
 #### 🔨 My recent Pull Requests
 
