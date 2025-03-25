@@ -4,7 +4,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [dhufe/go-ssd1305](https://github.com/dhufe/go-ssd1305) -  (1 day ago)
+- [dhufe/go-ssd1305](https://github.com/dhufe/go-ssd1305) -  (today)
 - [dhufe/mkdocs-demo](https://github.com/dhufe/mkdocs-demo) -  (1 week ago)
 - [dhufe/java_playground](https://github.com/dhufe/java_playground) - Just for playing with JAVA snippets. (3 weeks ago)
 - [dhufe/hgylib](https://github.com/dhufe/hgylib) - POC code for converting HILGUS data to MATLAB (or other file formats) (3 weeks ago)
