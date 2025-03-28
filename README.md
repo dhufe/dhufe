@@ -4,9 +4,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [dhufe/java_playground](https://github.com/dhufe/java_playground) - Just for playing with JAVA snippets. (today)
-- [dhufe/codewars](https://github.com/dhufe/codewars) - 🍻 CodeWars Solutions (today)
-- [dhufe/go-ssd1305](https://github.com/dhufe/go-ssd1305) - Simply control a GLCD with go. (1 day ago)
+- [dhufe/java_playground](https://github.com/dhufe/java_playground) - Just for playing with JAVA snippets. (1 day ago)
+- [dhufe/codewars](https://github.com/dhufe/codewars) - 🍻 CodeWars Solutions (1 day ago)
+- [dhufe/go-ssd1305](https://github.com/dhufe/go-ssd1305) - Simply control a GLCD with go. (2 days ago)
 - [dhufe/mkdocs-demo](https://github.com/dhufe/mkdocs-demo) -  (2 weeks ago)
 - [dhufe/hgylib](https://github.com/dhufe/hgylib) - POC code for converting HILGUS data to MATLAB (or other file formats) (3 weeks ago)
 - [dhufe/cpp_challenge](https://github.com/dhufe/cpp_challenge) - Source code for the c++ challenge (1 month ago)
@@ -30,8 +30,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Adding RenderString for render emoticons inside the footer.](https://github.com/HEIGE-PCloud/DoIt/pull/1446) on [HEIGE-PCloud/DoIt](https://github.com/HEIGE-PCloud/DoIt) (4 weeks ago)
-- [recentStars does not return](https://github.com/muesli/markscribe/pull/99) on [muesli/markscribe](https://github.com/muesli/markscribe) (4 weeks ago)
+- [Adding RenderString for render emoticons inside the footer.](https://github.com/HEIGE-PCloud/DoIt/pull/1446) on [HEIGE-PCloud/DoIt](https://github.com/HEIGE-PCloud/DoIt) (1 month ago)
+- [recentStars does not return](https://github.com/muesli/markscribe/pull/99) on [muesli/markscribe](https://github.com/muesli/markscribe) (1 month ago)
 - [Fixing autocomplete and adding citation extraction](https://github.com/mangecoeur/Citer/pull/43) on [mangecoeur/Citer](https://github.com/mangecoeur/Citer) (3 years ago)
 - [Fixing projectbased bibliography file settings.](https://github.com/sjpfenninger/citebibtex/pull/20) on [sjpfenninger/citebibtex](https://github.com/sjpfenninger/citebibtex) (3 years ago)
 - [Adding projectbased bibtex-file option.](https://github.com/mangecoeur/Citer/pull/42) on [mangecoeur/Citer](https://github.com/mangecoeur/Citer) (3 years ago)
@@ -60,8 +60,8 @@
 #### ⭐ Recent Stars
 
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (3 weeks ago)
-- [d2r2/go-i2c](https://github.com/d2r2/go-i2c) - Implementation of I2C-bus written in Golang. Forked from davecheney/i2c. (3 weeks ago)
-- [LibraryOfCongress/bagit-java](https://github.com/LibraryOfCongress/bagit-java) - Java library to support the BagIt specification. (4 weeks ago)
+- [d2r2/go-i2c](https://github.com/d2r2/go-i2c) - Implementation of I2C-bus written in Golang. Forked from davecheney/i2c. (4 weeks ago)
+- [LibraryOfCongress/bagit-java](https://github.com/LibraryOfCongress/bagit-java) - Java library to support the BagIt specification. (1 month ago)
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page (1 month ago)
 - [HEIGE-PCloud/DoIt](https://github.com/HEIGE-PCloud/DoIt) - A clean, elegant and advanced blog theme for Hugo. (1 month ago)
 - [enesagu/Object_detection_fastAPI_docker](https://github.com/enesagu/Object_detection_fastAPI_docker) - The project is a Dockerized microservice utilizing YOLO for object detection, managed with Docker Compose. It exposes a REST API for detection tasks, ensuring scalability and ease of deployment. Developed with FastAPI, it accurately detects and reports objects within images, prioritizing code quality, containerization efficiency, and clear document (1 month ago)
