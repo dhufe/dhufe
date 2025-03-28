@@ -4,7 +4,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [dhufe/java_playground](https://github.com/dhufe/java_playground) - Just for playing with JAVA snippets. (1 day ago)
+- [dhufe/java_playground](https://github.com/dhufe/java_playground) - Just for playing with JAVA snippets. (today)
 - [dhufe/codewars](https://github.com/dhufe/codewars) - 🍻 CodeWars Solutions (1 day ago)
 - [dhufe/go-ssd1305](https://github.com/dhufe/go-ssd1305) - Simply control a GLCD with go. (2 days ago)
 - [dhufe/mkdocs-demo](https://github.com/dhufe/mkdocs-demo) -  (2 weeks ago)
