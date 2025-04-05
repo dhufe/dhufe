@@ -11,7 +11,7 @@
 - [dhufe/hgylib](https://github.com/dhufe/hgylib) - POC code for converting HILGUS data to MATLAB (or other file formats) (1 month ago)
 - [dhufe/cpp_challenge](https://github.com/dhufe/cpp_challenge) - Source code for the c++ challenge (1 month ago)
 - [KarstenSuess/design_pattern_example](https://github.com/KarstenSuess/design_pattern_example) -  (2 months ago)
-- [dhufe/blha_application](https://github.com/dhufe/blha_application) -  (11 months ago)
+- [dhufe/blha_application](https://github.com/dhufe/blha_application) -  (1 year ago)
 - [dhufe/docker-python-app](https://github.com/dhufe/docker-python-app) - 🐳 Docker image to deploy a 🐍 Python app hosted on a Git repository (1 year ago)
 
 #### 🌱 My latest projects
@@ -71,6 +71,6 @@
 
 - [Linkdump 27/2024](https://hufschlaeger.net/linkdump-kw27/) (9 months ago)
 - [Caclulating QR-Code URLs for the Actimel/Pokémon lottery](https://hufschlaeger.net/poke-lottery/) (9 months ago)
-- [Linkdump 26/2024](https://hufschlaeger.net/linkdump-kw26/) (10 months ago)
+- [Linkdump 26/2024](https://hufschlaeger.net/linkdump-kw26/) (11 months ago)
 - [Suche nach den ersten hundert Primzahlen in C++](https://hufschlaeger.net/cpp-prime-numbers/) (4 years ago)
 - [Atmel ICE and OS X no 4](https://hufschlaeger.net/atmelice-and-os-x-4/) (6 years ago)
