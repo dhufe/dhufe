@@ -4,8 +4,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [dhufe/golang_playground](https://github.com/dhufe/golang_playground) -  (2 days ago)
-- [dhufe/java_playground](https://github.com/dhufe/java_playground) - Just for playing with JAVA snippets. (4 days ago)
+- [dhufe/golang_playground](https://github.com/dhufe/golang_playground) -  (3 days ago)
+- [dhufe/java_playground](https://github.com/dhufe/java_playground) - Just for playing with JAVA snippets. (5 days ago)
 - [dhufe/codewars](https://github.com/dhufe/codewars) - 🍻 CodeWars Solutions (2 weeks ago)
 - [dhufe/go-ssd1305](https://github.com/dhufe/go-ssd1305) - Simply control a GLCD with go. (2 weeks ago)
 - [dhufe/mkdocs-demo](https://github.com/dhufe/mkdocs-demo) -  (1 month ago)
@@ -74,4 +74,4 @@
 - [Caclulating QR-Code URLs for the Actimel/Pokémon lottery](https://hufschlaeger.net/poke-lottery/) (10 months ago)
 - [Linkdump 26/2024](https://hufschlaeger.net/linkdump-kw26/) (11 months ago)
 - [Suche nach den ersten hundert Primzahlen in C++](https://hufschlaeger.net/cpp-prime-numbers/) (4 years ago)
-- [Atmel ICE and OS X no 4](https://hufschlaeger.net/atmelice-and-os-x-4/) (6 years ago)
+- [Atmel ICE and OS X no 4](https://hufschlaeger.net/atmelice-and-os-x-4/) (7 years ago)
