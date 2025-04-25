@@ -7,10 +7,10 @@
 - [dhufe/java_playground](https://github.com/dhufe/java_playground) - Just for playing with JAVA snippets. (1 week ago)
 - [dhufe/golang_playground](https://github.com/dhufe/golang_playground) -  (2 weeks ago)
 - [dhufe/codewars](https://github.com/dhufe/codewars) - 🍻 CodeWars Solutions (4 weeks ago)
-- [dhufe/go-ssd1305](https://github.com/dhufe/go-ssd1305) - Simply control a GLCD with go. (4 weeks ago)
+- [dhufe/go-ssd1305](https://github.com/dhufe/go-ssd1305) - Simply control a GLCD with go. (1 month ago)
 - [dhufe/mkdocs-demo](https://github.com/dhufe/mkdocs-demo) -  (1 month ago)
 - [dhufe/hgylib](https://github.com/dhufe/hgylib) - POC code for converting HILGUS data to MATLAB (or other file formats) (1 month ago)
-- [dhufe/cpp_challenge](https://github.com/dhufe/cpp_challenge) - Source code for the c++ challenge (1 month ago)
+- [dhufe/cpp_challenge](https://github.com/dhufe/cpp_challenge) - Source code for the c++ challenge (2 months ago)
 - [KarstenSuess/design_pattern_example](https://github.com/KarstenSuess/design_pattern_example) -  (3 months ago)
 
 #### 🌱 My latest projects
@@ -37,7 +37,7 @@
 
 #### 🔨 My recent Issues
 
-- [Landesarchiv-Thueringen/x-man](https://github.com/Landesarchiv-Thueringen/x-man) - x-man WebDAV URL is missing the exposed port (10 months ago)
+- [Landesarchiv-Thueringen/x-man](https://github.com/Landesarchiv-Thueringen/x-man) - x-man WebDAV URL is missing the exposed port (11 months ago)
 
 #### 📓 Gists I wrote
 
