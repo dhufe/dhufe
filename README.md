@@ -58,7 +58,7 @@
 
 #### ⭐ Recent Stars
 
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (1 month ago)
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (2 months ago)
 - [d2r2/go-i2c](https://github.com/d2r2/go-i2c) - Implementation of I2C-bus written in Golang. Forked from davecheney/i2c. (2 months ago)
 - [LibraryOfCongress/bagit-java](https://github.com/LibraryOfCongress/bagit-java) - Java library to support the BagIt specification. (2 months ago)
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page (2 months ago)
@@ -68,7 +68,7 @@
 ### 📝 My recent blog posts
 
 
-- [Linkdump 27/2024](https://hufschlaeger.net/linkdump-kw27/) (9 months ago)
+- [Linkdump 27/2024](https://hufschlaeger.net/linkdump-kw27/) (10 months ago)
 - [Caclulating QR-Code URLs for the Actimel/Pokémon lottery](https://hufschlaeger.net/poke-lottery/) (10 months ago)
 - [Linkdump 26/2024](https://hufschlaeger.net/linkdump-kw26/) (11 months ago)
 - [Suche nach den ersten hundert Primzahlen in C++](https://hufschlaeger.net/cpp-prime-numbers/) (4 years ago)
