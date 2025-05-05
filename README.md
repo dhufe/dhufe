@@ -70,6 +70,6 @@
 
 - [Linkdump 27/2024](https://hufschlaeger.net/linkdump-kw27/) (10 months ago)
 - [Caclulating QR-Code URLs for the Actimel/Pokémon lottery](https://hufschlaeger.net/poke-lottery/) (10 months ago)
-- [Linkdump 26/2024](https://hufschlaeger.net/linkdump-kw26/) (11 months ago)
+- [Linkdump 26/2024](https://hufschlaeger.net/linkdump-kw26/) (1 year ago)
 - [Suche nach den ersten hundert Primzahlen in C++](https://hufschlaeger.net/cpp-prime-numbers/) (4 years ago)
 - [Atmel ICE and OS X no 4](https://hufschlaeger.net/atmelice-and-os-x-4/) (7 years ago)
