@@ -4,7 +4,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [dhufe/java_playground](https://github.com/dhufe/java_playground) - Just for playing with JAVA snippets. (3 weeks ago)
+- [dhufe/java_playground](https://github.com/dhufe/java_playground) - Just for playing with JAVA snippets. (4 weeks ago)
 - [dhufe/golang_playground](https://github.com/dhufe/golang_playground) -  (1 month ago)
 - [dhufe/codewars](https://github.com/dhufe/codewars) - 🍻 CodeWars Solutions (1 month ago)
 - [dhufe/go-ssd1305](https://github.com/dhufe/go-ssd1305) - Simply control a GLCD with go. (1 month ago)
@@ -58,7 +58,7 @@
 
 #### ⭐ Recent Stars
 
-- [jacksgt/restic-k8s](https://github.com/jacksgt/restic-k8s) - Simple Kubernetes Volume Backups with Restic (3 days ago)
+- [jacksgt/restic-k8s](https://github.com/jacksgt/restic-k8s) - Simple Kubernetes Volume Backups with Restic (4 days ago)
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (2 months ago)
 - [d2r2/go-i2c](https://github.com/d2r2/go-i2c) - Implementation of I2C-bus written in Golang. Forked from davecheney/i2c. (2 months ago)
 - [LibraryOfCongress/bagit-java](https://github.com/LibraryOfCongress/bagit-java) - Java library to support the BagIt specification. (2 months ago)
