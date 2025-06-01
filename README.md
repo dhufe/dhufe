@@ -37,7 +37,6 @@
 
 #### 🔨 My recent Issues
 
-- [Landesarchiv-Thueringen/x-man](https://github.com/Landesarchiv-Thueringen/x-man) - x-man WebDAV URL is missing the exposed port (1 year ago)
 
 #### 📓 Gists I wrote
 
