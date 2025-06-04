@@ -57,6 +57,7 @@
 
 #### ⭐ Recent Stars
 
+- [CamiloGarciaLaRotta/kboard](https://github.com/CamiloGarciaLaRotta/kboard) - Terminal game to practice keyboard typing (today)
 - [shahriaarrr/Tasky](https://github.com/shahriaarrr/Tasky) - CLI TODO list with GO (1 day ago)
 - [Beartime234/babble](https://github.com/Beartime234/babble) - A small utility to generate random words in #golang (1 day ago)
 - [catppuccin/ghostty](https://github.com/catppuccin/ghostty) - 👻 Soothing pastel theme for Ghostty (1 week ago)
@@ -66,7 +67,6 @@
 - [d2r2/go-i2c](https://github.com/d2r2/go-i2c) - Implementation of I2C-bus written in Golang. Forked from davecheney/i2c. (3 months ago)
 - [LibraryOfCongress/bagit-java](https://github.com/LibraryOfCongress/bagit-java) - Java library to support the BagIt specification. (3 months ago)
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page (3 months ago)
-- [HEIGE-PCloud/DoIt](https://github.com/HEIGE-PCloud/DoIt) - A clean, elegant and advanced blog theme for Hugo. (3 months ago)
 
 ### 📝 My recent blog posts
 
