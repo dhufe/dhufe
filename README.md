@@ -57,9 +57,9 @@
 
 #### ⭐ Recent Stars
 
-- [CamiloGarciaLaRotta/kboard](https://github.com/CamiloGarciaLaRotta/kboard) - Terminal game to practice keyboard typing (2 days ago)
-- [shahriaarrr/Tasky](https://github.com/shahriaarrr/Tasky) - CLI TODO list with GO (3 days ago)
-- [Beartime234/babble](https://github.com/Beartime234/babble) - A small utility to generate random words in #golang (3 days ago)
+- [CamiloGarciaLaRotta/kboard](https://github.com/CamiloGarciaLaRotta/kboard) - Terminal game to practice keyboard typing (3 days ago)
+- [shahriaarrr/Tasky](https://github.com/shahriaarrr/Tasky) - CLI TODO list with GO (4 days ago)
+- [Beartime234/babble](https://github.com/Beartime234/babble) - A small utility to generate random words in #golang (4 days ago)
 - [catppuccin/ghostty](https://github.com/catppuccin/ghostty) - 👻 Soothing pastel theme for Ghostty (1 week ago)
 - [grdl/git-get](https://github.com/grdl/git-get) - A better way to clone, organize and manage multiple git repositories (1 week ago)
 - [jacksgt/restic-k8s](https://github.com/jacksgt/restic-k8s) - Simple Kubernetes Volume Backups with Restic (4 weeks ago)
