@@ -5,7 +5,7 @@
 
 
 - [dhufe/java_playground](https://github.com/dhufe/java_playground) - Just for playing with JAVA snippets. (1 month ago)
-- [dhufe/golang_playground](https://github.com/dhufe/golang_playground) -  (1 month ago)
+- [dhufe/golang_playground](https://github.com/dhufe/golang_playground) -  (2 months ago)
 - [dhufe/codewars](https://github.com/dhufe/codewars) - 🍻 CodeWars Solutions (2 months ago)
 - [dhufe/go-ssd1305](https://github.com/dhufe/go-ssd1305) - Simply control a GLCD with go. (2 months ago)
 - [dhufe/mkdocs-demo](https://github.com/dhufe/mkdocs-demo) -  (2 months ago)
@@ -57,11 +57,11 @@
 
 #### ⭐ Recent Stars
 
-- [CamiloGarciaLaRotta/kboard](https://github.com/CamiloGarciaLaRotta/kboard) - Terminal game to practice keyboard typing (4 days ago)
-- [shahriaarrr/Tasky](https://github.com/shahriaarrr/Tasky) - CLI TODO list with GO (5 days ago)
-- [Beartime234/babble](https://github.com/Beartime234/babble) - A small utility to generate random words in #golang (5 days ago)
+- [CamiloGarciaLaRotta/kboard](https://github.com/CamiloGarciaLaRotta/kboard) - Terminal game to practice keyboard typing (5 days ago)
+- [shahriaarrr/Tasky](https://github.com/shahriaarrr/Tasky) - CLI TODO list with GO (6 days ago)
+- [Beartime234/babble](https://github.com/Beartime234/babble) - A small utility to generate random words in #golang (6 days ago)
 - [catppuccin/ghostty](https://github.com/catppuccin/ghostty) - 👻 Soothing pastel theme for Ghostty (1 week ago)
-- [grdl/git-get](https://github.com/grdl/git-get) - A better way to clone, organize and manage multiple git repositories (1 week ago)
+- [grdl/git-get](https://github.com/grdl/git-get) - A better way to clone, organize and manage multiple git repositories (2 weeks ago)
 - [jacksgt/restic-k8s](https://github.com/jacksgt/restic-k8s) - Simple Kubernetes Volume Backups with Restic (1 month ago)
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (3 months ago)
 - [d2r2/go-i2c](https://github.com/d2r2/go-i2c) - Implementation of I2C-bus written in Golang. Forked from davecheney/i2c. (3 months ago)
@@ -72,7 +72,7 @@
 
 
 - [Linkdump 27/2024](https://hufschlaeger.net/linkdump-kw27/) (11 months ago)
-- [Caclulating QR-Code URLs for the Actimel/Pokémon lottery](https://hufschlaeger.net/poke-lottery/) (11 months ago)
+- [Caclulating QR-Code URLs for the Actimel/Pokémon lottery](https://hufschlaeger.net/poke-lottery/) (1 year ago)
 - [Linkdump 26/2024](https://hufschlaeger.net/linkdump-kw26/) (1 year ago)
 - [Suche nach den ersten hundert Primzahlen in C++](https://hufschlaeger.net/cpp-prime-numbers/) (4 years ago)
 - [Atmel ICE and OS X no 4](https://hufschlaeger.net/atmelice-and-os-x-4/) (7 years ago)
