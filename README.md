@@ -11,7 +11,7 @@
 - [dhufe/mkdocs-demo](https://github.com/dhufe/mkdocs-demo) -  (3 months ago)
 - [dhufe/hgylib](https://github.com/dhufe/hgylib) - POC code for converting HILGUS data to MATLAB (or other file formats) (3 months ago)
 - [dhufe/cpp_challenge](https://github.com/dhufe/cpp_challenge) - Source code for the c++ challenge (3 months ago)
-- [KarstenSuess/design_pattern_example](https://github.com/KarstenSuess/design_pattern_example) -  (4 months ago)
+- [KarstenSuess/design_pattern_example](https://github.com/KarstenSuess/design_pattern_example) -  (5 months ago)
 
 #### 🌱 My latest projects
 
@@ -61,7 +61,7 @@
 - [shahriaarrr/Tasky](https://github.com/shahriaarrr/Tasky) - CLI TODO list with GO (1 week ago)
 - [Beartime234/babble](https://github.com/Beartime234/babble) - A small utility to generate random words in #golang (1 week ago)
 - [catppuccin/ghostty](https://github.com/catppuccin/ghostty) - 👻 Soothing pastel theme for Ghostty (2 weeks ago)
-- [grdl/git-get](https://github.com/grdl/git-get) - A better way to clone, organize and manage multiple git repositories (2 weeks ago)
+- [grdl/git-get](https://github.com/grdl/git-get) - A better way to clone, organize and manage multiple git repositories (3 weeks ago)
 - [jacksgt/restic-k8s](https://github.com/jacksgt/restic-k8s) - Simple Kubernetes Volume Backups with Restic (1 month ago)
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (3 months ago)
 - [d2r2/go-i2c](https://github.com/d2r2/go-i2c) - Implementation of I2C-bus written in Golang. Forked from davecheney/i2c. (3 months ago)
