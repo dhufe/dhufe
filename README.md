@@ -61,12 +61,12 @@
 - [shahriaarrr/Tasky](https://github.com/shahriaarrr/Tasky) - CLI TODO list with GO (2 weeks ago)
 - [Beartime234/babble](https://github.com/Beartime234/babble) - A small utility to generate random words in #golang (2 weeks ago)
 - [catppuccin/ghostty](https://github.com/catppuccin/ghostty) - 👻 Soothing pastel theme for Ghostty (3 weeks ago)
-- [grdl/git-get](https://github.com/grdl/git-get) - A better way to clone, organize and manage multiple git repositories (3 weeks ago)
+- [grdl/git-get](https://github.com/grdl/git-get) - A better way to clone, organize and manage multiple git repositories (4 weeks ago)
 - [jacksgt/restic-k8s](https://github.com/jacksgt/restic-k8s) - Simple Kubernetes Volume Backups with Restic (1 month ago)
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (3 months ago)
 - [d2r2/go-i2c](https://github.com/d2r2/go-i2c) - Implementation of I2C-bus written in Golang. Forked from davecheney/i2c. (3 months ago)
 - [LibraryOfCongress/bagit-java](https://github.com/LibraryOfCongress/bagit-java) - Java library to support the BagIt specification. (3 months ago)
-- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page (3 months ago)
+- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page (4 months ago)
 
 ### 📝 My recent blog posts
 
