@@ -7,10 +7,10 @@
 - [dhufe/java_playground](https://github.com/dhufe/java_playground) - Just for playing with JAVA snippets. (2 months ago)
 - [dhufe/golang_playground](https://github.com/dhufe/golang_playground) -  (2 months ago)
 - [dhufe/codewars](https://github.com/dhufe/codewars) - 🍻 CodeWars Solutions (2 months ago)
-- [dhufe/go-ssd1305](https://github.com/dhufe/go-ssd1305) - Simply control a GLCD with go. (2 months ago)
+- [dhufe/go-ssd1305](https://github.com/dhufe/go-ssd1305) - Simply control a GLCD with go. (3 months ago)
 - [dhufe/mkdocs-demo](https://github.com/dhufe/mkdocs-demo) -  (3 months ago)
 - [dhufe/hgylib](https://github.com/dhufe/hgylib) - POC code for converting HILGUS data to MATLAB (or other file formats) (3 months ago)
-- [dhufe/cpp_challenge](https://github.com/dhufe/cpp_challenge) - Source code for the c++ challenge (3 months ago)
+- [dhufe/cpp_challenge](https://github.com/dhufe/cpp_challenge) - Source code for the c++ challenge (4 months ago)
 - [KarstenSuess/design_pattern_example](https://github.com/KarstenSuess/design_pattern_example) -  (5 months ago)
 
 #### 🌱 My latest projects
@@ -58,8 +58,8 @@
 #### ⭐ Recent Stars
 
 - [CamiloGarciaLaRotta/kboard](https://github.com/CamiloGarciaLaRotta/kboard) - Terminal game to practice keyboard typing (2 weeks ago)
-- [shahriaarrr/Tasky](https://github.com/shahriaarrr/Tasky) - CLI TODO list with GO (2 weeks ago)
-- [Beartime234/babble](https://github.com/Beartime234/babble) - A small utility to generate random words in #golang (2 weeks ago)
+- [shahriaarrr/Tasky](https://github.com/shahriaarrr/Tasky) - CLI TODO list with GO (3 weeks ago)
+- [Beartime234/babble](https://github.com/Beartime234/babble) - A small utility to generate random words in #golang (3 weeks ago)
 - [catppuccin/ghostty](https://github.com/catppuccin/ghostty) - 👻 Soothing pastel theme for Ghostty (3 weeks ago)
 - [grdl/git-get](https://github.com/grdl/git-get) - A better way to clone, organize and manage multiple git repositories (4 weeks ago)
 - [jacksgt/restic-k8s](https://github.com/jacksgt/restic-k8s) - Simple Kubernetes Volume Backups with Restic (1 month ago)
