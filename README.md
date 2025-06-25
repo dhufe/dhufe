@@ -6,6 +6,7 @@
 
 - [KarstenSuess/design_pattern_example](https://github.com/KarstenSuess/design_pattern_example) -  (today)
 - [dhufe/IngestListApiWrapper](https://github.com/dhufe/IngestListApiWrapper) -  (today)
+- [dhufe/tasky-aur](https://github.com/dhufe/tasky-aur) -  (today)
 - [dhufe/java_playground](https://github.com/dhufe/java_playground) - Just for playing with JAVA snippets. (2 months ago)
 - [dhufe/golang_playground](https://github.com/dhufe/golang_playground) -  (2 months ago)
 - [dhufe/codewars](https://github.com/dhufe/codewars) - 🍻 CodeWars Solutions (3 months ago)
@@ -17,6 +18,7 @@
 #### 🌱 My latest projects
 
 
+- [dhufe/tasky-aur](https://github.com/dhufe/tasky-aur) - 
 - [dhufe/IngestListApiWrapper](https://github.com/dhufe/IngestListApiWrapper) - 
 - [dhufe/golang_playground](https://github.com/dhufe/golang_playground) - 
 - [dhufe/go-ssd1305](https://github.com/dhufe/go-ssd1305) - Simply control a GLCD with go.
@@ -26,7 +28,6 @@
 - [dhufe/codewars](https://github.com/dhufe/codewars) - 🍻 CodeWars Solutions
 - [dhufe/blha_application](https://github.com/dhufe/blha_application) - 
 - [dhufe/cpp_challenge](https://github.com/dhufe/cpp_challenge) - Source code for the c++ challenge
-- [dhufe/MATLAB](https://github.com/dhufe/MATLAB) - MATLAB helper scripts and functions
 
 #### 🔨 My recent Pull Requests
 
