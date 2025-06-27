@@ -4,9 +4,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [dhufe/IngestListApiWrapper](https://github.com/dhufe/IngestListApiWrapper) -  (today)
-- [KarstenSuess/design_pattern_example](https://github.com/KarstenSuess/design_pattern_example) -  (today)
-- [dhufe/tasky-aur](https://github.com/dhufe/tasky-aur) -  (today)
+- [dhufe/IngestListApiWrapper](https://github.com/dhufe/IngestListApiWrapper) -  (1 day ago)
+- [KarstenSuess/design_pattern_example](https://github.com/KarstenSuess/design_pattern_example) -  (1 day ago)
+- [dhufe/tasky-aur](https://github.com/dhufe/tasky-aur) -  (1 day ago)
 - [dhufe/java_playground](https://github.com/dhufe/java_playground) - Just for playing with JAVA snippets. (2 months ago)
 - [dhufe/golang_playground](https://github.com/dhufe/golang_playground) -  (2 months ago)
 - [dhufe/codewars](https://github.com/dhufe/codewars) - 🍻 CodeWars Solutions (3 months ago)
@@ -31,7 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Separate cli functionality and data structure.](https://github.com/shahriaarrr/Tasky/pull/22) on [shahriaarrr/Tasky](https://github.com/shahriaarrr/Tasky) (2 days ago)
+- [Separate cli functionality and data structure.](https://github.com/shahriaarrr/Tasky/pull/22) on [shahriaarrr/Tasky](https://github.com/shahriaarrr/Tasky) (3 days ago)
 - [Adding RenderString for render emoticons inside the footer.](https://github.com/HEIGE-PCloud/DoIt/pull/1446) on [HEIGE-PCloud/DoIt](https://github.com/HEIGE-PCloud/DoIt) (4 months ago)
 - [recentStars does not return](https://github.com/muesli/markscribe/pull/99) on [muesli/markscribe](https://github.com/muesli/markscribe) (4 months ago)
 - [Fixing autocomplete and adding citation extraction](https://github.com/mangecoeur/Citer/pull/43) on [mangecoeur/Citer](https://github.com/mangecoeur/Citer) (3 years ago)
@@ -63,7 +63,7 @@
 - [CamiloGarciaLaRotta/kboard](https://github.com/CamiloGarciaLaRotta/kboard) - Terminal game to practice keyboard typing (3 weeks ago)
 - [shahriaarrr/Tasky](https://github.com/shahriaarrr/Tasky) - CLI TODO list with GO (3 weeks ago)
 - [Beartime234/babble](https://github.com/Beartime234/babble) - A small utility to generate random words in #golang (3 weeks ago)
-- [catppuccin/ghostty](https://github.com/catppuccin/ghostty) - 👻 Soothing pastel theme for Ghostty (4 weeks ago)
+- [catppuccin/ghostty](https://github.com/catppuccin/ghostty) - 👻 Soothing pastel theme for Ghostty (1 month ago)
 - [grdl/git-get](https://github.com/grdl/git-get) - A better way to clone, organize and manage multiple git repositories (1 month ago)
 - [jacksgt/restic-k8s](https://github.com/jacksgt/restic-k8s) - Simple Kubernetes Volume Backups with Restic (1 month ago)
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (3 months ago)
