@@ -8,12 +8,12 @@
 - [KarstenSuess/design_pattern_example](https://github.com/KarstenSuess/design_pattern_example) -  (1 day ago)
 - [Brandenburgisches-Landeshauptarchiv/.github](https://github.com/Brandenburgisches-Landeshauptarchiv/.github) -  (1 day ago)
 - [dhufe/tasky-aur](https://github.com/dhufe/tasky-aur) -  (2 days ago)
+- [shahriaarrr/Tasky](https://github.com/shahriaarrr/Tasky) - CLI TODO list with GO (1 week ago)
 - [dhufe/java_playground](https://github.com/dhufe/java_playground) - Just for playing with JAVA snippets. (2 months ago)
 - [dhufe/golang_playground](https://github.com/dhufe/golang_playground) -  (2 months ago)
 - [dhufe/codewars](https://github.com/dhufe/codewars) - 🍻 CodeWars Solutions (3 months ago)
 - [dhufe/go-ssd1305](https://github.com/dhufe/go-ssd1305) - Simply control a GLCD with go. (3 months ago)
 - [dhufe/mkdocs-demo](https://github.com/dhufe/mkdocs-demo) -  (3 months ago)
-- [dhufe/hgylib](https://github.com/dhufe/hgylib) - POC code for converting HILGUS data to MATLAB (or other file formats) (3 months ago)
 
 #### 🌱 My latest projects
 
