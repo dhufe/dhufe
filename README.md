@@ -4,13 +4,13 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [dhufe/IngestListApiWrapper](https://github.com/dhufe/IngestListApiWrapper) -  (today)
+- [dhufe/IngestListApiWrapper](https://github.com/dhufe/IngestListApiWrapper) -  (1 day ago)
 - [KarstenSuess/design_pattern_example](https://github.com/KarstenSuess/design_pattern_example) -  (1 week ago)
 - [Brandenburgisches-Landeshauptarchiv/.github](https://github.com/Brandenburgisches-Landeshauptarchiv/.github) -  (1 week ago)
 - [dhufe/tasky-aur](https://github.com/dhufe/tasky-aur) -  (1 week ago)
 - [shahriaarrr/Tasky](https://github.com/shahriaarrr/Tasky) - CLI TODO list with GO (2 weeks ago)
 - [dhufe/java_playground](https://github.com/dhufe/java_playground) - Just for playing with JAVA snippets. (2 months ago)
-- [dhufe/golang_playground](https://github.com/dhufe/golang_playground) -  (2 months ago)
+- [dhufe/golang_playground](https://github.com/dhufe/golang_playground) -  (3 months ago)
 - [dhufe/codewars](https://github.com/dhufe/codewars) - 🍻 CodeWars Solutions (3 months ago)
 - [dhufe/go-ssd1305](https://github.com/dhufe/go-ssd1305) - Simply control a GLCD with go. (3 months ago)
 - [dhufe/mkdocs-demo](https://github.com/dhufe/mkdocs-demo) -  (3 months ago)
@@ -60,9 +60,9 @@
 
 #### ⭐ Recent Stars
 
-- [geekifan/hugo-theme-chirpy](https://github.com/geekifan/hugo-theme-chirpy) - A hugo version of Chirpy Theme. (today)
-- [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron (1 day ago)
-- [k3s-io/k3s-ansible](https://github.com/k3s-io/k3s-ansible) -  (4 days ago)
+- [geekifan/hugo-theme-chirpy](https://github.com/geekifan/hugo-theme-chirpy) - A hugo version of Chirpy Theme. (1 day ago)
+- [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron (2 days ago)
+- [k3s-io/k3s-ansible](https://github.com/k3s-io/k3s-ansible) -  (5 days ago)
 - [CamiloGarciaLaRotta/kboard](https://github.com/CamiloGarciaLaRotta/kboard) - Terminal game to practice keyboard typing (1 month ago)
 - [shahriaarrr/Tasky](https://github.com/shahriaarrr/Tasky) - CLI TODO list with GO (1 month ago)
 - [Beartime234/babble](https://github.com/Beartime234/babble) - A small utility to generate random words in #golang (1 month ago)
