@@ -4,7 +4,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [dhufe/IngestListApiWrapper](https://github.com/dhufe/IngestListApiWrapper) -  (today)
+- [dhufe/IngestListApiWrapper](https://github.com/dhufe/IngestListApiWrapper) -  (1 day ago)
 - [KarstenSuess/design_pattern_example](https://github.com/KarstenSuess/design_pattern_example) -  (2 weeks ago)
 - [Brandenburgisches-Landeshauptarchiv/.github](https://github.com/Brandenburgisches-Landeshauptarchiv/.github) -  (2 weeks ago)
 - [dhufe/tasky-aur](https://github.com/dhufe/tasky-aur) -  (2 weeks ago)
@@ -60,8 +60,8 @@
 
 #### ⭐ Recent Stars
 
-- [geekifan/hugo-theme-chirpy](https://github.com/geekifan/hugo-theme-chirpy) - A hugo version of Chirpy Theme. (3 days ago)
-- [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron (4 days ago)
+- [geekifan/hugo-theme-chirpy](https://github.com/geekifan/hugo-theme-chirpy) - A hugo version of Chirpy Theme. (4 days ago)
+- [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron (5 days ago)
 - [CamiloGarciaLaRotta/kboard](https://github.com/CamiloGarciaLaRotta/kboard) - Terminal game to practice keyboard typing (1 month ago)
 - [shahriaarrr/Tasky](https://github.com/shahriaarrr/Tasky) - CLI TODO list with GO (1 month ago)
 - [Beartime234/babble](https://github.com/Beartime234/babble) - A small utility to generate random words in #golang (1 month ago)
