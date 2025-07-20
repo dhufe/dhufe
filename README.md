@@ -8,7 +8,7 @@
 - [KarstenSuess/design_pattern_example](https://github.com/KarstenSuess/design_pattern_example) -  (3 weeks ago)
 - [Brandenburgisches-Landeshauptarchiv/.github](https://github.com/Brandenburgisches-Landeshauptarchiv/.github) -  (3 weeks ago)
 - [dhufe/tasky-aur](https://github.com/dhufe/tasky-aur) -  (3 weeks ago)
-- [shahriaarrr/Tasky](https://github.com/shahriaarrr/Tasky) - CLI TODO list with GO (4 weeks ago)
+- [shahriaarrr/Tasky](https://github.com/shahriaarrr/Tasky) - CLI TODO list with GO (1 month ago)
 - [dhufe/java_playground](https://github.com/dhufe/java_playground) - Just for playing with JAVA snippets. (3 months ago)
 - [dhufe/golang_playground](https://github.com/dhufe/golang_playground) -  (3 months ago)
 - [dhufe/codewars](https://github.com/dhufe/codewars) - 🍻 CodeWars Solutions (3 months ago)
@@ -60,7 +60,7 @@
 
 #### ⭐ Recent Stars
 
-- [lavnrw/xdomea-examples](https://github.com/lavnrw/xdomea-examples) - xdomea example files (1 day ago)
+- [lavnrw/xdomea-examples](https://github.com/lavnrw/xdomea-examples) - xdomea example files (2 days ago)
 - [geekifan/hugo-theme-chirpy](https://github.com/geekifan/hugo-theme-chirpy) - A hugo version of Chirpy Theme. (1 week ago)
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron (1 week ago)
 - [CamiloGarciaLaRotta/kboard](https://github.com/CamiloGarciaLaRotta/kboard) - Terminal game to practice keyboard typing (1 month ago)
