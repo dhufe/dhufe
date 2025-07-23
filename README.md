@@ -60,7 +60,7 @@
 
 #### ⭐ Recent Stars
 
-- [lavnrw/xdomea-examples](https://github.com/lavnrw/xdomea-examples) - xdomea example files (4 days ago)
+- [lavnrw/xdomea-examples](https://github.com/lavnrw/xdomea-examples) - xdomea example files (5 days ago)
 - [geekifan/hugo-theme-chirpy](https://github.com/geekifan/hugo-theme-chirpy) - A hugo version of Chirpy Theme. (2 weeks ago)
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron (2 weeks ago)
 - [CamiloGarciaLaRotta/kboard](https://github.com/CamiloGarciaLaRotta/kboard) - Terminal game to practice keyboard typing (1 month ago)
