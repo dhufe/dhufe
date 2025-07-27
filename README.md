@@ -4,9 +4,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [dhufe/IngestListApiWrapper](https://github.com/dhufe/IngestListApiWrapper) -  (1 day ago)
-- [KarstenSuess/design_pattern_example](https://github.com/KarstenSuess/design_pattern_example) -  (4 weeks ago)
-- [Brandenburgisches-Landeshauptarchiv/.github](https://github.com/Brandenburgisches-Landeshauptarchiv/.github) -  (4 weeks ago)
+- [dhufe/IngestListApiWrapper](https://github.com/dhufe/IngestListApiWrapper) -  (2 days ago)
+- [KarstenSuess/design_pattern_example](https://github.com/KarstenSuess/design_pattern_example) -  (1 month ago)
+- [Brandenburgisches-Landeshauptarchiv/.github](https://github.com/Brandenburgisches-Landeshauptarchiv/.github) -  (1 month ago)
 - [dhufe/tasky-aur](https://github.com/dhufe/tasky-aur) -  (1 month ago)
 - [shahriaarrr/Tasky](https://github.com/shahriaarrr/Tasky) - CLI TODO list with GO (1 month ago)
 - [dhufe/java_playground](https://github.com/dhufe/java_playground) - Just for playing with JAVA snippets. (3 months ago)
@@ -60,14 +60,14 @@
 
 #### ⭐ Recent Stars
 
-- [kobtea/go-todoist](https://github.com/kobtea/go-todoist) - Unofficial CLI and library for todoist (3 days ago)
+- [kobtea/go-todoist](https://github.com/kobtea/go-todoist) - Unofficial CLI and library for todoist (4 days ago)
 - [lavnrw/xdomea-examples](https://github.com/lavnrw/xdomea-examples) - xdomea example files (1 week ago)
 - [geekifan/hugo-theme-chirpy](https://github.com/geekifan/hugo-theme-chirpy) - A hugo version of Chirpy Theme. (2 weeks ago)
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron (2 weeks ago)
 - [CamiloGarciaLaRotta/kboard](https://github.com/CamiloGarciaLaRotta/kboard) - Terminal game to practice keyboard typing (1 month ago)
 - [shahriaarrr/Tasky](https://github.com/shahriaarrr/Tasky) - CLI TODO list with GO (1 month ago)
 - [Beartime234/babble](https://github.com/Beartime234/babble) - A small utility to generate random words in #golang (1 month ago)
-- [catppuccin/ghostty](https://github.com/catppuccin/ghostty) - 👻 Soothing pastel theme for Ghostty (1 month ago)
+- [catppuccin/ghostty](https://github.com/catppuccin/ghostty) - 👻 Soothing pastel theme for Ghostty (2 months ago)
 - [grdl/git-get](https://github.com/grdl/git-get) - A better way to clone, organize and manage multiple git repositories (2 months ago)
 - [jacksgt/restic-k8s](https://github.com/jacksgt/restic-k8s) - Simple Kubernetes Volume Backups with Restic (2 months ago)
 
