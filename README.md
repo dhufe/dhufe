@@ -4,7 +4,6 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [dhufe/IngestListApiWrapper](https://github.com/dhufe/IngestListApiWrapper) -  (4 days ago)
 - [KarstenSuess/design_pattern_example](https://github.com/KarstenSuess/design_pattern_example) -  (1 month ago)
 - [Brandenburgisches-Landeshauptarchiv/.github](https://github.com/Brandenburgisches-Landeshauptarchiv/.github) -  (1 month ago)
 - [dhufe/tasky-aur](https://github.com/dhufe/tasky-aur) -  (1 month ago)
@@ -14,12 +13,12 @@
 - [dhufe/codewars](https://github.com/dhufe/codewars) - 🍻 CodeWars Solutions (4 months ago)
 - [dhufe/go-ssd1305](https://github.com/dhufe/go-ssd1305) - Simply control a GLCD with go. (4 months ago)
 - [dhufe/mkdocs-demo](https://github.com/dhufe/mkdocs-demo) -  (4 months ago)
+- [dhufe/hgylib](https://github.com/dhufe/hgylib) - POC code for converting HILGUS data to MATLAB (or other file formats) (5 months ago)
 
 #### 🌱 My latest projects
 
 
 - [dhufe/tasky-aur](https://github.com/dhufe/tasky-aur) - 
-- [dhufe/IngestListApiWrapper](https://github.com/dhufe/IngestListApiWrapper) - 
 - [dhufe/golang_playground](https://github.com/dhufe/golang_playground) - 
 - [dhufe/go-ssd1305](https://github.com/dhufe/go-ssd1305) - Simply control a GLCD with go.
 - [dhufe/mkdocs-demo](https://github.com/dhufe/mkdocs-demo) - 
@@ -28,6 +27,7 @@
 - [dhufe/codewars](https://github.com/dhufe/codewars) - 🍻 CodeWars Solutions
 - [dhufe/blha_application](https://github.com/dhufe/blha_application) - 
 - [dhufe/cpp_challenge](https://github.com/dhufe/cpp_challenge) - Source code for the c++ challenge
+- [dhufe/MATLAB](https://github.com/dhufe/MATLAB) - MATLAB helper scripts and functions
 
 #### 🔨 My recent Pull Requests
 
