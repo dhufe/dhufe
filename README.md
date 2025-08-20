@@ -4,7 +4,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [KarstenSuess/design_pattern_example](https://github.com/KarstenSuess/design_pattern_example) -  (5 days ago)
+- [KarstenSuess/design_pattern_example](https://github.com/KarstenSuess/design_pattern_example) -  (6 days ago)
 - [Brandenburgisches-Landeshauptarchiv/.github](https://github.com/Brandenburgisches-Landeshauptarchiv/.github) -  (1 month ago)
 - [dhufe/tasky-aur](https://github.com/dhufe/tasky-aur) -  (1 month ago)
 - [shahriaarrr/Tasky](https://github.com/shahriaarrr/Tasky) - CLI TODO list with GO (2 months ago)
@@ -60,7 +60,7 @@
 
 #### ⭐ Recent Stars
 
-- [kobtea/go-todoist](https://github.com/kobtea/go-todoist) - Unofficial CLI and library for todoist (3 weeks ago)
+- [kobtea/go-todoist](https://github.com/kobtea/go-todoist) - Unofficial CLI and library for todoist (4 weeks ago)
 - [lavnrw/xdomea-examples](https://github.com/lavnrw/xdomea-examples) - xdomea example files (1 month ago)
 - [geekifan/hugo-theme-chirpy](https://github.com/geekifan/hugo-theme-chirpy) - A hugo version of Chirpy Theme. (1 month ago)
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron (1 month ago)
