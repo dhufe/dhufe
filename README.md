@@ -11,7 +11,7 @@
 - [dhufe/java_playground](https://github.com/dhufe/java_playground) - Just for playing with JAVA snippets. (4 months ago)
 - [dhufe/golang_playground](https://github.com/dhufe/golang_playground) -  (4 months ago)
 - [dhufe/codewars](https://github.com/dhufe/codewars) - 🍻 CodeWars Solutions (4 months ago)
-- [dhufe/go-ssd1305](https://github.com/dhufe/go-ssd1305) - Simply control a GLCD with go. (4 months ago)
+- [dhufe/go-ssd1305](https://github.com/dhufe/go-ssd1305) - Simply control a GLCD with go. (5 months ago)
 - [dhufe/mkdocs-demo](https://github.com/dhufe/mkdocs-demo) -  (5 months ago)
 - [dhufe/hgylib](https://github.com/dhufe/hgylib) - POC code for converting HILGUS data to MATLAB (or other file formats) (5 months ago)
 
@@ -31,7 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Separate cli functionality and data structure.](https://github.com/shahriaarrr/Tasky/pull/22) on [shahriaarrr/Tasky](https://github.com/shahriaarrr/Tasky) (1 month ago)
+- [Separate cli functionality and data structure.](https://github.com/shahriaarrr/Tasky/pull/22) on [shahriaarrr/Tasky](https://github.com/shahriaarrr/Tasky) (2 months ago)
 - [Adding RenderString for render emoticons inside the footer.](https://github.com/HEIGE-PCloud/DoIt/pull/1446) on [HEIGE-PCloud/DoIt](https://github.com/HEIGE-PCloud/DoIt) (5 months ago)
 - [recentStars does not return](https://github.com/muesli/markscribe/pull/99) on [muesli/markscribe](https://github.com/muesli/markscribe) (5 months ago)
 - [Fixing autocomplete and adding citation extraction](https://github.com/mangecoeur/Citer/pull/43) on [mangecoeur/Citer](https://github.com/mangecoeur/Citer) (3 years ago)
