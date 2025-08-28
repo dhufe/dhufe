@@ -4,7 +4,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [KarstenSuess/design_pattern_example](https://github.com/KarstenSuess/design_pattern_example) -  (1 week ago)
+- [KarstenSuess/design_pattern_example](https://github.com/KarstenSuess/design_pattern_example) -  (2 weeks ago)
 - [Brandenburgisches-Landeshauptarchiv/.github](https://github.com/Brandenburgisches-Landeshauptarchiv/.github) -  (2 months ago)
 - [dhufe/tasky-aur](https://github.com/dhufe/tasky-aur) -  (2 months ago)
 - [shahriaarrr/Tasky](https://github.com/shahriaarrr/Tasky) - CLI TODO list with GO (2 months ago)
@@ -13,7 +13,7 @@
 - [dhufe/codewars](https://github.com/dhufe/codewars) - 🍻 CodeWars Solutions (5 months ago)
 - [dhufe/go-ssd1305](https://github.com/dhufe/go-ssd1305) - Simply control a GLCD with go. (5 months ago)
 - [dhufe/mkdocs-demo](https://github.com/dhufe/mkdocs-demo) -  (5 months ago)
-- [dhufe/hgylib](https://github.com/dhufe/hgylib) - POC code for converting HILGUS data to MATLAB (or other file formats) (5 months ago)
+- [dhufe/hgylib](https://github.com/dhufe/hgylib) - POC code for converting HILGUS data to MATLAB (or other file formats) (6 months ago)
 
 #### 🌱 My latest projects
 
