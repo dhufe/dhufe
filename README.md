@@ -74,8 +74,8 @@
 ### 📝 My recent blog posts
 
 
+- [Ghostty - terminfo](https://hufschlaeger.net/blog/2025/09/08/ghostty-terminfo/) (today)
 - [Linkdump 27/2024](https://hufschlaeger.net/blog/2024/07/07/linkdump-27/2024/) (1 year ago)
 - [Caclulating QR-Code URLs for the Actimel/Pokémon lottery](https://hufschlaeger.net/blog/2024/06/14/caclulating-qr-code-urls-for-the-actimel/pok%C3%A9mon-lottery/) (1 year ago)
 - [Linkdump 26/2024](https://hufschlaeger.net/blog/2024/05/10/linkdump-26/2024/) (1 year ago)
 - [Suche nach den ersten hundert Primzahlen in C++](https://hufschlaeger.net/blog/2020/10/09/suche-nach-den-ersten-hundert-primzahlen-in-c-/) (4 years ago)
-- [Über mich](https://hufschlaeger.net/about/) (6 years ago)
