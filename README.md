@@ -60,7 +60,7 @@
 
 #### ⭐ Recent Stars
 
-- [kobtea/go-todoist](https://github.com/kobtea/go-todoist) - Unofficial CLI and library for todoist (1 month ago)
+- [kobtea/go-todoist](https://github.com/kobtea/go-todoist) - Unofficial CLI and library for todoist (2 months ago)
 - [lavnrw/xdomea-examples](https://github.com/lavnrw/xdomea-examples) - xdomea example files (2 months ago)
 - [geekifan/hugo-theme-chirpy](https://github.com/geekifan/hugo-theme-chirpy) - A hugo version of Chirpy Theme. (2 months ago)
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron (2 months ago)
