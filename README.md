@@ -10,7 +10,7 @@
 - [shahriaarrr/Tasky](https://github.com/shahriaarrr/Tasky) - CLI TODO list with GO (3 months ago)
 - [dhufe/java_playground](https://github.com/dhufe/java_playground) - Just for playing with JAVA snippets. (5 months ago)
 - [dhufe/golang_playground](https://github.com/dhufe/golang_playground) -  (5 months ago)
-- [dhufe/codewars](https://github.com/dhufe/codewars) - 🍻 CodeWars Solutions (5 months ago)
+- [dhufe/codewars](https://github.com/dhufe/codewars) - 🍻 CodeWars Solutions (6 months ago)
 - [dhufe/go-ssd1305](https://github.com/dhufe/go-ssd1305) - Simply control a GLCD with go. (6 months ago)
 - [dhufe/mkdocs-demo](https://github.com/dhufe/mkdocs-demo) -  (6 months ago)
 - [dhufe/hgylib](https://github.com/dhufe/hgylib) - POC code for converting HILGUS data to MATLAB (or other file formats) (6 months ago)
@@ -68,7 +68,7 @@
 - [shahriaarrr/Tasky](https://github.com/shahriaarrr/Tasky) - CLI TODO list with GO (3 months ago)
 - [Beartime234/babble](https://github.com/Beartime234/babble) - A small utility to generate random words in #golang (3 months ago)
 - [catppuccin/ghostty](https://github.com/catppuccin/ghostty) - 👻 Soothing pastel theme for Ghostty (3 months ago)
-- [grdl/git-get](https://github.com/grdl/git-get) - A better way to clone, organize and manage multiple git repositories (3 months ago)
+- [grdl/git-get](https://github.com/grdl/git-get) - A better way to clone, organize and manage multiple git repositories (4 months ago)
 - [jacksgt/restic-k8s](https://github.com/jacksgt/restic-k8s) - Simple Kubernetes Volume Backups with Restic (4 months ago)
 
 ### 📝 My recent blog posts
