@@ -5,7 +5,7 @@
 
 
 - [KarstenSuess/design_pattern_example](https://github.com/KarstenSuess/design_pattern_example) -  (1 month ago)
-- [Brandenburgisches-Landeshauptarchiv/.github](https://github.com/Brandenburgisches-Landeshauptarchiv/.github) -  (2 months ago)
+- [Brandenburgisches-Landeshauptarchiv/.github](https://github.com/Brandenburgisches-Landeshauptarchiv/.github) -  (3 months ago)
 - [dhufe/tasky-aur](https://github.com/dhufe/tasky-aur) -  (3 months ago)
 - [shahriaarrr/Tasky](https://github.com/shahriaarrr/Tasky) - CLI TODO list with GO (3 months ago)
 - [dhufe/java_playground](https://github.com/dhufe/java_playground) - Just for playing with JAVA snippets. (5 months ago)
@@ -67,7 +67,7 @@
 - [CamiloGarciaLaRotta/kboard](https://github.com/CamiloGarciaLaRotta/kboard) - Terminal game to practice keyboard typing (3 months ago)
 - [shahriaarrr/Tasky](https://github.com/shahriaarrr/Tasky) - CLI TODO list with GO (3 months ago)
 - [Beartime234/babble](https://github.com/Beartime234/babble) - A small utility to generate random words in #golang (3 months ago)
-- [catppuccin/ghostty](https://github.com/catppuccin/ghostty) - 👻 Soothing pastel theme for Ghostty (3 months ago)
+- [catppuccin/ghostty](https://github.com/catppuccin/ghostty) - 👻 Soothing pastel theme for Ghostty (4 months ago)
 - [grdl/git-get](https://github.com/grdl/git-get) - A better way to clone, organize and manage multiple git repositories (4 months ago)
 - [jacksgt/restic-k8s](https://github.com/jacksgt/restic-k8s) - Simple Kubernetes Volume Backups with Restic (4 months ago)
 
