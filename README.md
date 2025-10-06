@@ -4,7 +4,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [dhufe/gitlab-tasks-exporter](https://github.com/dhufe/gitlab-tasks-exporter) - Export GitLab issues into either a Markdown report or sync it directly into Todoist as tasks (3 days ago)
+- [dhufe/gitlab-tasks-exporter](https://github.com/dhufe/gitlab-tasks-exporter) - Export GitLab issues into either a Markdown report or sync it directly into Todoist as tasks (4 days ago)
 - [KarstenSuess/design_pattern_example](https://github.com/KarstenSuess/design_pattern_example) -  (1 month ago)
 - [Brandenburgisches-Landeshauptarchiv/.github](https://github.com/Brandenburgisches-Landeshauptarchiv/.github) -  (3 months ago)
 - [dhufe/tasky-aur](https://github.com/dhufe/tasky-aur) -  (3 months ago)
@@ -31,8 +31,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update release workflow to include manual release notes](https://github.com/dhufe/gitlab-tasks-exporter/pull/2) on [dhufe/gitlab-tasks-exporter](https://github.com/dhufe/gitlab-tasks-exporter) (3 days ago)
-- [Create GitHub repo](https://github.com/dhufe/gitlab-tasks-exporter/pull/1) on [dhufe/gitlab-tasks-exporter](https://github.com/dhufe/gitlab-tasks-exporter) (3 days ago)
+- [Update release workflow to include manual release notes](https://github.com/dhufe/gitlab-tasks-exporter/pull/2) on [dhufe/gitlab-tasks-exporter](https://github.com/dhufe/gitlab-tasks-exporter) (4 days ago)
+- [Create GitHub repo](https://github.com/dhufe/gitlab-tasks-exporter/pull/1) on [dhufe/gitlab-tasks-exporter](https://github.com/dhufe/gitlab-tasks-exporter) (4 days ago)
 - [Separate cli functionality and data structure.](https://github.com/shahriaarrr/Tasky/pull/22) on [shahriaarrr/Tasky](https://github.com/shahriaarrr/Tasky) (3 months ago)
 - [Adding RenderString for render emoticons inside the footer.](https://github.com/HEIGE-PCloud/DoIt/pull/1446) on [HEIGE-PCloud/DoIt](https://github.com/HEIGE-PCloud/DoIt) (7 months ago)
 - [recentStars does not return](https://github.com/muesli/markscribe/pull/99) on [muesli/markscribe](https://github.com/muesli/markscribe) (7 months ago)
@@ -64,19 +64,19 @@
 
 - [kobtea/go-todoist](https://github.com/kobtea/go-todoist) - Unofficial CLI and library for todoist (2 months ago)
 - [lavnrw/xdomea-examples](https://github.com/lavnrw/xdomea-examples) - xdomea example files (2 months ago)
-- [geekifan/hugo-theme-chirpy](https://github.com/geekifan/hugo-theme-chirpy) - A hugo version of Chirpy Theme. (2 months ago)
+- [geekifan/hugo-theme-chirpy](https://github.com/geekifan/hugo-theme-chirpy) - A hugo version of Chirpy Theme. (3 months ago)
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron (3 months ago)
 - [CamiloGarciaLaRotta/kboard](https://github.com/CamiloGarciaLaRotta/kboard) - Terminal game to practice keyboard typing (4 months ago)
 - [shahriaarrr/Tasky](https://github.com/shahriaarrr/Tasky) - CLI TODO list with GO (4 months ago)
 - [Beartime234/babble](https://github.com/Beartime234/babble) - A small utility to generate random words in #golang (4 months ago)
 - [catppuccin/ghostty](https://github.com/catppuccin/ghostty) - 👻 Soothing pastel theme for Ghostty (4 months ago)
 - [grdl/git-get](https://github.com/grdl/git-get) - A better way to clone, organize and manage multiple git repositories (4 months ago)
-- [jacksgt/restic-k8s](https://github.com/jacksgt/restic-k8s) - Simple Kubernetes Volume Backups with Restic (4 months ago)
+- [jacksgt/restic-k8s](https://github.com/jacksgt/restic-k8s) - Simple Kubernetes Volume Backups with Restic (5 months ago)
 
 ### 📝 My recent blog posts
 
 
-- [Ghostty - terminfo](https://hufschlaeger.net/blog/2025/09/08/ghostty-terminfo/) (3 weeks ago)
+- [Ghostty - terminfo](https://hufschlaeger.net/blog/2025/09/08/ghostty-terminfo/) (4 weeks ago)
 - [Linkdump 27/2024](https://hufschlaeger.net/blog/2024/07/07/linkdump-27/2024/) (1 year ago)
 - [Caclulating QR-Code URLs for the Actimel/Pokémon lottery](https://hufschlaeger.net/blog/2024/06/14/caclulating-qr-code-urls-for-the-actimel/pok%C3%A9mon-lottery/) (1 year ago)
 - [Linkdump 26/2024](https://hufschlaeger.net/blog/2024/05/10/linkdump-26/2024/) (1 year ago)
