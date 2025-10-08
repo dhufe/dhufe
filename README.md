@@ -4,7 +4,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [dhufe/gitlab-tasks-exporter](https://github.com/dhufe/gitlab-tasks-exporter) - Export GitLab issues into either a Markdown report or sync it directly into Todoist as tasks (5 days ago)
+- [dhufe/gitlab-tasks-exporter](https://github.com/dhufe/gitlab-tasks-exporter) - Export GitLab issues into either a Markdown report or sync it directly into Todoist as tasks (6 days ago)
 - [KarstenSuess/design_pattern_example](https://github.com/KarstenSuess/design_pattern_example) -  (1 month ago)
 - [Brandenburgisches-Landeshauptarchiv/.github](https://github.com/Brandenburgisches-Landeshauptarchiv/.github) -  (3 months ago)
 - [dhufe/tasky-aur](https://github.com/dhufe/tasky-aur) -  (3 months ago)
@@ -13,7 +13,7 @@
 - [dhufe/golang_playground](https://github.com/dhufe/golang_playground) -  (6 months ago)
 - [dhufe/codewars](https://github.com/dhufe/codewars) - 🍻 CodeWars Solutions (6 months ago)
 - [dhufe/go-ssd1305](https://github.com/dhufe/go-ssd1305) - Simply control a GLCD with go. (6 months ago)
-- [dhufe/mkdocs-demo](https://github.com/dhufe/mkdocs-demo) -  (6 months ago)
+- [dhufe/mkdocs-demo](https://github.com/dhufe/mkdocs-demo) -  (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -31,8 +31,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update release workflow to include manual release notes](https://github.com/dhufe/gitlab-tasks-exporter/pull/2) on [dhufe/gitlab-tasks-exporter](https://github.com/dhufe/gitlab-tasks-exporter) (5 days ago)
-- [Create GitHub repo](https://github.com/dhufe/gitlab-tasks-exporter/pull/1) on [dhufe/gitlab-tasks-exporter](https://github.com/dhufe/gitlab-tasks-exporter) (5 days ago)
+- [Update release workflow to include manual release notes](https://github.com/dhufe/gitlab-tasks-exporter/pull/2) on [dhufe/gitlab-tasks-exporter](https://github.com/dhufe/gitlab-tasks-exporter) (6 days ago)
+- [Create GitHub repo](https://github.com/dhufe/gitlab-tasks-exporter/pull/1) on [dhufe/gitlab-tasks-exporter](https://github.com/dhufe/gitlab-tasks-exporter) (6 days ago)
 - [Separate cli functionality and data structure.](https://github.com/shahriaarrr/Tasky/pull/22) on [shahriaarrr/Tasky](https://github.com/shahriaarrr/Tasky) (3 months ago)
 - [Adding RenderString for render emoticons inside the footer.](https://github.com/HEIGE-PCloud/DoIt/pull/1446) on [HEIGE-PCloud/DoIt](https://github.com/HEIGE-PCloud/DoIt) (7 months ago)
 - [recentStars does not return](https://github.com/muesli/markscribe/pull/99) on [muesli/markscribe](https://github.com/muesli/markscribe) (7 months ago)
@@ -76,7 +76,7 @@
 ### 📝 My recent blog posts
 
 
-- [Ghostty - terminfo](https://hufschlaeger.net/blog/2025/09/08/ghostty-terminfo/) (4 weeks ago)
+- [Ghostty - terminfo](https://hufschlaeger.net/blog/2025/09/08/ghostty-terminfo/) (1 month ago)
 - [Linkdump 27/2024](https://hufschlaeger.net/blog/2024/07/07/linkdump-27/2024/) (1 year ago)
 - [Caclulating QR-Code URLs for the Actimel/Pokémon lottery](https://hufschlaeger.net/blog/2024/06/14/caclulating-qr-code-urls-for-the-actimel/pok%C3%A9mon-lottery/) (1 year ago)
 - [Linkdump 26/2024](https://hufschlaeger.net/blog/2024/05/10/linkdump-26/2024/) (1 year ago)
