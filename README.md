@@ -4,8 +4,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [dhufe/ansible-soap](https://github.com/dhufe/ansible-soap) - SOAP module for Ansible (1 day ago)
-- [dhufe/gitlab-tasks-exporter](https://github.com/dhufe/gitlab-tasks-exporter) - Export GitLab issues into either a Markdown report or sync it directly into Todoist as tasks (1 week ago)
+- [dhufe/ansible-soap](https://github.com/dhufe/ansible-soap) - SOAP module for Ansible (2 days ago)
+- [dhufe/gitlab-tasks-exporter](https://github.com/dhufe/gitlab-tasks-exporter) - Export GitLab issues into either a Markdown report or sync it directly into Todoist as tasks (2 weeks ago)
 - [KarstenSuess/design_pattern_example](https://github.com/KarstenSuess/design_pattern_example) -  (2 months ago)
 - [Brandenburgisches-Landeshauptarchiv/.github](https://github.com/Brandenburgisches-Landeshauptarchiv/.github) -  (3 months ago)
 - [dhufe/tasky-aur](https://github.com/dhufe/tasky-aur) -  (3 months ago)
@@ -31,8 +31,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update release workflow to include manual release notes](https://github.com/dhufe/gitlab-tasks-exporter/pull/2) on [dhufe/gitlab-tasks-exporter](https://github.com/dhufe/gitlab-tasks-exporter) (1 week ago)
-- [Create GitHub repo](https://github.com/dhufe/gitlab-tasks-exporter/pull/1) on [dhufe/gitlab-tasks-exporter](https://github.com/dhufe/gitlab-tasks-exporter) (1 week ago)
+- [Update release workflow to include manual release notes](https://github.com/dhufe/gitlab-tasks-exporter/pull/2) on [dhufe/gitlab-tasks-exporter](https://github.com/dhufe/gitlab-tasks-exporter) (2 weeks ago)
+- [Create GitHub repo](https://github.com/dhufe/gitlab-tasks-exporter/pull/1) on [dhufe/gitlab-tasks-exporter](https://github.com/dhufe/gitlab-tasks-exporter) (2 weeks ago)
 - [Separate cli functionality and data structure.](https://github.com/shahriaarrr/Tasky/pull/22) on [shahriaarrr/Tasky](https://github.com/shahriaarrr/Tasky) (3 months ago)
 - [Adding RenderString for render emoticons inside the footer.](https://github.com/HEIGE-PCloud/DoIt/pull/1446) on [HEIGE-PCloud/DoIt](https://github.com/HEIGE-PCloud/DoIt) (7 months ago)
 - [recentStars does not return](https://github.com/muesli/markscribe/pull/99) on [muesli/markscribe](https://github.com/muesli/markscribe) (7 months ago)
@@ -63,7 +63,7 @@
 #### ⭐ Recent Stars
 
 - [kobtea/go-todoist](https://github.com/kobtea/go-todoist) - Unofficial CLI and library for todoist (2 months ago)
-- [lavnrw/xdomea-examples](https://github.com/lavnrw/xdomea-examples) - xdomea example files (2 months ago)
+- [lavnrw/xdomea-examples](https://github.com/lavnrw/xdomea-examples) - xdomea example files (3 months ago)
 - [geekifan/hugo-theme-chirpy](https://github.com/geekifan/hugo-theme-chirpy) - A hugo version of Chirpy Theme. (3 months ago)
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron (3 months ago)
 - [CamiloGarciaLaRotta/kboard](https://github.com/CamiloGarciaLaRotta/kboard) - Terminal game to practice keyboard typing (4 months ago)
