@@ -13,7 +13,7 @@
 - [dhufe/java_playground](https://github.com/dhufe/java_playground) - Just for playing with JAVA snippets. (6 months ago)
 - [dhufe/golang_playground](https://github.com/dhufe/golang_playground) -  (6 months ago)
 - [dhufe/codewars](https://github.com/dhufe/codewars) - 🍻 CodeWars Solutions (6 months ago)
-- [dhufe/go-ssd1305](https://github.com/dhufe/go-ssd1305) - Simply control a GLCD with go. (6 months ago)
+- [dhufe/go-ssd1305](https://github.com/dhufe/go-ssd1305) - Simply control a GLCD with go. (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -33,7 +33,7 @@
 
 - [Update release workflow to include manual release notes](https://github.com/dhufe/gitlab-tasks-exporter/pull/2) on [dhufe/gitlab-tasks-exporter](https://github.com/dhufe/gitlab-tasks-exporter) (2 weeks ago)
 - [Create GitHub repo](https://github.com/dhufe/gitlab-tasks-exporter/pull/1) on [dhufe/gitlab-tasks-exporter](https://github.com/dhufe/gitlab-tasks-exporter) (2 weeks ago)
-- [Separate cli functionality and data structure.](https://github.com/shahriaarrr/Tasky/pull/22) on [shahriaarrr/Tasky](https://github.com/shahriaarrr/Tasky) (3 months ago)
+- [Separate cli functionality and data structure.](https://github.com/shahriaarrr/Tasky/pull/22) on [shahriaarrr/Tasky](https://github.com/shahriaarrr/Tasky) (4 months ago)
 - [Adding RenderString for render emoticons inside the footer.](https://github.com/HEIGE-PCloud/DoIt/pull/1446) on [HEIGE-PCloud/DoIt](https://github.com/HEIGE-PCloud/DoIt) (7 months ago)
 - [recentStars does not return](https://github.com/muesli/markscribe/pull/99) on [muesli/markscribe](https://github.com/muesli/markscribe) (7 months ago)
 - [Fixing autocomplete and adding citation extraction](https://github.com/mangecoeur/Citer/pull/43) on [mangecoeur/Citer](https://github.com/mangecoeur/Citer) (3 years ago)
@@ -62,7 +62,7 @@
 
 #### ⭐ Recent Stars
 
-- [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations. (today)
+- [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations. (1 day ago)
 - [kobtea/go-todoist](https://github.com/kobtea/go-todoist) - Unofficial CLI and library for todoist (3 months ago)
 - [lavnrw/xdomea-examples](https://github.com/lavnrw/xdomea-examples) - xdomea example files (3 months ago)
 - [geekifan/hugo-theme-chirpy](https://github.com/geekifan/hugo-theme-chirpy) - A hugo version of Chirpy Theme. (3 months ago)
