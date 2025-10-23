@@ -62,7 +62,7 @@
 
 #### ⭐ Recent Stars
 
-- [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations. (2 days ago)
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted alternative to cloud note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture and organize your ideas. (2 days ago)
 - [kobtea/go-todoist](https://github.com/kobtea/go-todoist) - Unofficial CLI and library for todoist (3 months ago)
 - [lavnrw/xdomea-examples](https://github.com/lavnrw/xdomea-examples) - xdomea example files (3 months ago)
 - [geekifan/hugo-theme-chirpy](https://github.com/geekifan/hugo-theme-chirpy) - A hugo version of Chirpy Theme. (3 months ago)
