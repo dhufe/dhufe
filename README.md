@@ -8,7 +8,7 @@
 - [dhufe/gitlab-tasks-exporter](https://github.com/dhufe/gitlab-tasks-exporter) - Export GitLab issues into either a Markdown report or sync it directly into Todoist as tasks (3 weeks ago)
 - [KarstenSuess/design_pattern_example](https://github.com/KarstenSuess/design_pattern_example) -  (2 months ago)
 - [Brandenburgisches-Landeshauptarchiv/.github](https://github.com/Brandenburgisches-Landeshauptarchiv/.github) -  (3 months ago)
-- [dhufe/tasky-aur](https://github.com/dhufe/tasky-aur) -  (3 months ago)
+- [dhufe/tasky-aur](https://github.com/dhufe/tasky-aur) -  (4 months ago)
 - [shahriaarrr/Tasky](https://github.com/shahriaarrr/Tasky) - CLI TODO list with GO (4 months ago)
 - [dhufe/java_playground](https://github.com/dhufe/java_playground) - Just for playing with JAVA snippets. (6 months ago)
 - [dhufe/golang_playground](https://github.com/dhufe/golang_playground) -  (6 months ago)
@@ -34,8 +34,8 @@
 - [Update release workflow to include manual release notes](https://github.com/dhufe/gitlab-tasks-exporter/pull/2) on [dhufe/gitlab-tasks-exporter](https://github.com/dhufe/gitlab-tasks-exporter) (3 weeks ago)
 - [Create GitHub repo](https://github.com/dhufe/gitlab-tasks-exporter/pull/1) on [dhufe/gitlab-tasks-exporter](https://github.com/dhufe/gitlab-tasks-exporter) (3 weeks ago)
 - [Separate cli functionality and data structure.](https://github.com/shahriaarrr/Tasky/pull/22) on [shahriaarrr/Tasky](https://github.com/shahriaarrr/Tasky) (4 months ago)
-- [Adding RenderString for render emoticons inside the footer.](https://github.com/HEIGE-PCloud/DoIt/pull/1446) on [HEIGE-PCloud/DoIt](https://github.com/HEIGE-PCloud/DoIt) (7 months ago)
-- [recentStars does not return](https://github.com/muesli/markscribe/pull/99) on [muesli/markscribe](https://github.com/muesli/markscribe) (7 months ago)
+- [Adding RenderString for render emoticons inside the footer.](https://github.com/HEIGE-PCloud/DoIt/pull/1446) on [HEIGE-PCloud/DoIt](https://github.com/HEIGE-PCloud/DoIt) (8 months ago)
+- [recentStars does not return](https://github.com/muesli/markscribe/pull/99) on [muesli/markscribe](https://github.com/muesli/markscribe) (8 months ago)
 - [Fixing autocomplete and adding citation extraction](https://github.com/mangecoeur/Citer/pull/43) on [mangecoeur/Citer](https://github.com/mangecoeur/Citer) (3 years ago)
 - [Fixing projectbased bibliography file settings.](https://github.com/sjpfenninger/citebibtex/pull/20) on [sjpfenninger/citebibtex](https://github.com/sjpfenninger/citebibtex) (3 years ago)
 - [Adding projectbased bibtex-file option.](https://github.com/mangecoeur/Citer/pull/42) on [mangecoeur/Citer](https://github.com/mangecoeur/Citer) (3 years ago)
@@ -62,7 +62,7 @@
 
 #### ⭐ Recent Stars
 
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted alternative to cloud note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture and organize your ideas. (2 days ago)
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted alternative to cloud note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture and organize your ideas. (3 days ago)
 - [kobtea/go-todoist](https://github.com/kobtea/go-todoist) - Unofficial CLI and library for todoist (3 months ago)
 - [lavnrw/xdomea-examples](https://github.com/lavnrw/xdomea-examples) - xdomea example files (3 months ago)
 - [geekifan/hugo-theme-chirpy](https://github.com/geekifan/hugo-theme-chirpy) - A hugo version of Chirpy Theme. (3 months ago)
