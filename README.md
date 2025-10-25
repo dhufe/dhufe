@@ -42,6 +42,7 @@
 
 #### 🔨 My recent Issues
 
+- [ansible/galaxy](https://github.com/ansible/galaxy) - Request namespace: hufschlaeger (today)
 
 #### 📓 Gists I wrote
 
