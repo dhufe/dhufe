@@ -4,6 +4,7 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [hufschlaeger/.github](https://github.com/hufschlaeger/.github) - Organisation info (today)
 - [hufschlaeger/ansible-soap](https://github.com/hufschlaeger/ansible-soap) - SOAP module for Ansible (today)
 - [dhufe/gitlab-tasks-exporter](https://github.com/dhufe/gitlab-tasks-exporter) - Export GitLab issues into either a Markdown report or sync it directly into Todoist as tasks (3 weeks ago)
 - [KarstenSuess/design_pattern_example](https://github.com/KarstenSuess/design_pattern_example) -  (2 months ago)
@@ -13,7 +14,6 @@
 - [dhufe/java_playground](https://github.com/dhufe/java_playground) - Just for playing with JAVA snippets. (6 months ago)
 - [dhufe/golang_playground](https://github.com/dhufe/golang_playground) -  (6 months ago)
 - [dhufe/codewars](https://github.com/dhufe/codewars) - 🍻 CodeWars Solutions (7 months ago)
-- [dhufe/go-ssd1305](https://github.com/dhufe/go-ssd1305) - Simply control a GLCD with go. (7 months ago)
 
 #### 🌱 My latest projects
 
