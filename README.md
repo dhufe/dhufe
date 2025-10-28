@@ -4,9 +4,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [hufschlaeger/ansible-soap](https://github.com/hufschlaeger/ansible-soap) - SOAP module for Ansible (today)
-- [hufschlaeger/ansible-dracoon](https://github.com/hufschlaeger/ansible-dracoon) - Dracoon collection for ansible (today)
-- [hufschlaeger/.github](https://github.com/hufschlaeger/.github) - Organisation info (1 day ago)
+- [hufschlaeger/ansible-soap](https://github.com/hufschlaeger/ansible-soap) - SOAP module for Ansible (1 day ago)
+- [hufschlaeger/ansible-dracoon](https://github.com/hufschlaeger/ansible-dracoon) - Dracoon collection for ansible (1 day ago)
+- [hufschlaeger/.github](https://github.com/hufschlaeger/.github) - Organisation info (2 days ago)
 - [dhufe/gitlab-tasks-exporter](https://github.com/dhufe/gitlab-tasks-exporter) - Export GitLab issues into either a Markdown report or sync it directly into Todoist as tasks (3 weeks ago)
 - [KarstenSuess/design_pattern_example](https://github.com/KarstenSuess/design_pattern_example) -  (2 months ago)
 - [Brandenburgisches-Landeshauptarchiv/.github](https://github.com/Brandenburgisches-Landeshauptarchiv/.github) -  (4 months ago)
@@ -42,7 +42,7 @@
 
 #### 🔨 My recent Issues
 
-- [ansible/galaxy](https://github.com/ansible/galaxy) - Request namespace: hufschlaeger (2 days ago)
+- [ansible/galaxy](https://github.com/ansible/galaxy) - Request namespace: hufschlaeger (3 days ago)
 
 #### 📓 Gists I wrote
 
@@ -63,7 +63,7 @@
 
 #### ⭐ Recent Stars
 
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture your ideas. (6 days ago)
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees. (1 week ago)
 - [kobtea/go-todoist](https://github.com/kobtea/go-todoist) - Unofficial CLI and library for todoist (3 months ago)
 - [lavnrw/xdomea-examples](https://github.com/lavnrw/xdomea-examples) - xdomea example files (3 months ago)
 - [geekifan/hugo-theme-chirpy](https://github.com/geekifan/hugo-theme-chirpy) - A hugo version of Chirpy Theme. (3 months ago)
