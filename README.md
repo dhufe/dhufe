@@ -4,7 +4,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [hufschlaeger/ansible-soap](https://github.com/hufschlaeger/ansible-soap) - SOAP module for Ansible (6 days ago)
+- [hufschlaeger/ansible-soap](https://github.com/hufschlaeger/ansible-soap) - SOAP module for Ansible (1 week ago)
 - [hufschlaeger/ansible-dracoon](https://github.com/hufschlaeger/ansible-dracoon) - Dracoon collection for ansible (1 week ago)
 - [hufschlaeger/.github](https://github.com/hufschlaeger/.github) - Organisation info (1 week ago)
 - [dhufe/gitlab-tasks-exporter](https://github.com/dhufe/gitlab-tasks-exporter) - Export GitLab issues into either a Markdown report or sync it directly into Todoist as tasks (1 month ago)
@@ -42,7 +42,7 @@
 
 #### 🔨 My recent Issues
 
-- [ansible/galaxy](https://github.com/ansible/galaxy) - Request namespace: hufschlaeger (1 week ago)
+- [ansible/galaxy](https://github.com/ansible/galaxy) - Request namespace: hufschlaeger (2 weeks ago)
 
 #### 📓 Gists I wrote
 
