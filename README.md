@@ -4,7 +4,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [KarstenSuess/design_pattern_example](https://github.com/KarstenSuess/design_pattern_example) -  (today)
+- [KarstenSuess/design_pattern_example](https://github.com/KarstenSuess/design_pattern_example) -  (1 day ago)
 - [hufschlaeger/ansible-soap](https://github.com/hufschlaeger/ansible-soap) - SOAP module for Ansible (1 week ago)
 - [hufschlaeger/ansible-dracoon](https://github.com/hufschlaeger/ansible-dracoon) - Dracoon collection for ansible (2 weeks ago)
 - [hufschlaeger/.github](https://github.com/hufschlaeger/.github) - Organisation info (2 weeks ago)
