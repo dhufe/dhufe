@@ -52,7 +52,6 @@
 
 - [dhufe/ha_link2home](https://github.com/dhufe/ha_link2home) - Link2Home integration for Home Assistant
 - [dhufe/Tasky](https://github.com/dhufe/Tasky) - CLI TODO list with GO
-- [dhufe/bagit-java](https://github.com/dhufe/bagit-java) - Java library to support the BagIt specification.
 - [dhufe/markscribe](https://github.com/dhufe/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) & RSS powers 📜
 - [dhufe/readme-scribe](https://github.com/dhufe/readme-scribe) - A GitHub Action that automatically generates & updates markdown content (like your README.md)
 - [dhufe/DoIt](https://github.com/dhufe/DoIt) - A clean, elegant and advanced blog theme for Hugo.
@@ -60,6 +59,7 @@
 - [dhufe/citebibtex](https://github.com/dhufe/citebibtex) - Effortlessly insert citations from BibTeX into texts written in Pandoc or LaTeX
 - [dhufe/Citer](https://github.com/dhufe/Citer) -  Citations from bibtex for Sublime Text 3
 - [dhufe/vim-zettel](https://github.com/dhufe/vim-zettel) - VimWiki addon for managing notes according to Zettelkasten method
+- [dhufe/FirIA](https://github.com/dhufe/FirIA) - iA Writer Template
 
 #### ⭐ Recent Stars
 
