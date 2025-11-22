@@ -4,6 +4,7 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [hufschlaeger/gitlab-downloader](https://github.com/hufschlaeger/gitlab-downloader) - SImple gitlab downloader written in go.  (today)
 - [KarstenSuess/design_pattern_example](https://github.com/KarstenSuess/design_pattern_example) -  (1 week ago)
 - [hufschlaeger/ansible-soap](https://github.com/hufschlaeger/ansible-soap) - SOAP module for Ansible (3 weeks ago)
 - [hufschlaeger/ansible-dracoon](https://github.com/hufschlaeger/ansible-dracoon) - Dracoon collection for ansible (3 weeks ago)
@@ -13,7 +14,6 @@
 - [dhufe/tasky-aur](https://github.com/dhufe/tasky-aur) -  (4 months ago)
 - [shahriaarrr/Tasky](https://github.com/shahriaarrr/Tasky) - CLI TODO list with GO (5 months ago)
 - [dhufe/java_playground](https://github.com/dhufe/java_playground) - Just for playing with JAVA snippets. (7 months ago)
-- [dhufe/golang_playground](https://github.com/dhufe/golang_playground) -  (7 months ago)
 
 #### 🌱 My latest projects
 
