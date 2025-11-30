@@ -4,9 +4,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [hufschlaeger/gitlab-downloader](https://github.com/hufschlaeger/gitlab-downloader) - SImple gitlab downloader written in go.  (1 week ago)
+- [hufschlaeger/ansible-soap](https://github.com/hufschlaeger/ansible-soap) - SOAP module for Ansible (today)
+- [hufschlaeger/gitlab-downloader](https://github.com/hufschlaeger/gitlab-downloader) - SImple gitlab downloader written in go.  (today)
 - [KarstenSuess/design_pattern_example](https://github.com/KarstenSuess/design_pattern_example) -  (2 weeks ago)
-- [hufschlaeger/ansible-soap](https://github.com/hufschlaeger/ansible-soap) - SOAP module for Ansible (4 weeks ago)
 - [hufschlaeger/ansible-dracoon](https://github.com/hufschlaeger/ansible-dracoon) - Dracoon collection for ansible (1 month ago)
 - [hufschlaeger/.github](https://github.com/hufschlaeger/.github) - Organisation info (1 month ago)
 - [hufschlaeger/gitlab-tasks-exporter](https://github.com/hufschlaeger/gitlab-tasks-exporter) - Export GitLab issues into either a Markdown report or sync it directly into Todoist as tasks (1 month ago)
