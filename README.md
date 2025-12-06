@@ -4,7 +4,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [hufschlaeger/ansible-soap](https://github.com/hufschlaeger/ansible-soap) - SOAP module for Ansible (5 days ago)
+- [hufschlaeger/ansible-soap](https://github.com/hufschlaeger/ansible-soap) - SOAP module for Ansible (6 days ago)
 - [KarstenSuess/design_pattern_example](https://github.com/KarstenSuess/design_pattern_example) -  (3 weeks ago)
 - [hufschlaeger/gitlab-tasks-exporter](https://github.com/hufschlaeger/gitlab-tasks-exporter) - Export GitLab issues into either a Markdown report or sync it directly into Todoist as tasks (2 months ago)
 - [dhufe/java_playground](https://github.com/dhufe/java_playground) - Just for playing with JAVA snippets. (7 months ago)
@@ -25,7 +25,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Improve compatibility to memos 0.25.3.](https://github.com/mudkipme/mortis/pull/9) on [mudkipme/mortis](https://github.com/mudkipme/mortis) (6 days ago)
+- [Improve compatibility to memos 0.25.3.](https://github.com/mudkipme/mortis/pull/9) on [mudkipme/mortis](https://github.com/mudkipme/mortis) (1 week ago)
 - [Update release workflow to include manual release notes](https://github.com/hufschlaeger/gitlab-tasks-exporter/pull/2) on [hufschlaeger/gitlab-tasks-exporter](https://github.com/hufschlaeger/gitlab-tasks-exporter) (2 months ago)
 - [Create GitHub repo](https://github.com/hufschlaeger/gitlab-tasks-exporter/pull/1) on [hufschlaeger/gitlab-tasks-exporter](https://github.com/hufschlaeger/gitlab-tasks-exporter) (2 months ago)
 - [Separate cli functionality and data structure.](https://github.com/shahriaarrr/Tasky/pull/22) on [shahriaarrr/Tasky](https://github.com/shahriaarrr/Tasky) (5 months ago)
@@ -58,8 +58,8 @@
 
 #### ⭐ Recent Stars
 
-- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices. (1 day ago)
-- [golang/go](https://github.com/golang/go) - The Go programming language (1 day ago)
+- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices. (2 days ago)
+- [golang/go](https://github.com/golang/go) - The Go programming language (2 days ago)
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees. (1 month ago)
 - [kobtea/go-todoist](https://github.com/kobtea/go-todoist) - Unofficial CLI and library for todoist (4 months ago)
 - [lavnrw/xdomea-examples](https://github.com/lavnrw/xdomea-examples) - xdomea example files (4 months ago)
@@ -75,5 +75,5 @@
 - [macOS vom Schlafen abhalten](https://hufschlaeger.net/blog/2025/10/05/macos-vom-schlafen-abhalten/) (2 months ago)
 - [Ghostty - terminfo](https://hufschlaeger.net/blog/2025/09/08/ghostty-terminfo/) (2 months ago)
 - [Linkdump 27/2024](https://hufschlaeger.net/blog/2024/07/07/linkdump-27/2024/) (1 year ago)
-- [Caclulating QR-Code URLs for the Actimel/Pokémon lottery](https://hufschlaeger.net/blog/2024/06/14/caclulating-qr-code-urls-for-the-actimel/pok%C3%A9mon-lottery/) (1 year ago)
+- [Caclulating QR-Code URLs for the Actimel/Pokémon lottery](https://hufschlaeger.net/blog/2024/06/14/caclulating-qr-code-urls-for-the-actimel/pok%C3%A9mon-lottery/) (2 years ago)
 - [Linkdump 26/2024](https://hufschlaeger.net/blog/2024/05/10/linkdump-26/2024/) (2 years ago)
