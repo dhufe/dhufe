@@ -5,9 +5,14 @@
 
 
 - [dhufe/markscribe](https://github.com/dhufe/markscribe) - Markdown scribe with template-engine and Git(Hub) & RSS powers (today)
+- [hufschlaeger/gitlab-downloader](https://github.com/hufschlaeger/gitlab-downloader) - SImple gitlab downloader written in go.  (2 days ago)
+- [hufschlaeger/gitlab-tasks-exporter](https://github.com/hufschlaeger/gitlab-tasks-exporter) - Export GitLab issues into either a Markdown report or sync it directly into Todoist as tasks (2 days ago)
 - [hufschlaeger/ansible-soap](https://github.com/hufschlaeger/ansible-soap) - SOAP module for Ansible (6 days ago)
 - [KarstenSuess/design_pattern_example](https://github.com/KarstenSuess/design_pattern_example) -  (3 weeks ago)
-- [hufschlaeger/gitlab-tasks-exporter](https://github.com/hufschlaeger/gitlab-tasks-exporter) - Export GitLab issues into either a Markdown report or sync it directly into Todoist as tasks (2 months ago)
+- [hufschlaeger/ansible-dracoon](https://github.com/hufschlaeger/ansible-dracoon) - Dracoon collection for ansible (1 month ago)
+- [hufschlaeger/.github](https://github.com/hufschlaeger/.github) - Organisation info (1 month ago)
+- [Brandenburgisches-Landeshauptarchiv/.github](https://github.com/Brandenburgisches-Landeshauptarchiv/.github) -  (5 months ago)
+- [dhufe/tasky-aur](https://github.com/dhufe/tasky-aur) -  (5 months ago)
 - [dhufe/java_playground](https://github.com/dhufe/java_playground) - Just for playing with JAVA snippets. (7 months ago)
 
 #### 🌱 My latest projects
