@@ -10,7 +10,7 @@
 - [hufschlaeger/ansible-soap](https://github.com/hufschlaeger/ansible-soap) - SOAP module for Ansible (3 weeks ago)
 - [KarstenSuess/design_pattern_example](https://github.com/KarstenSuess/design_pattern_example) -  (1 month ago)
 - [hufschlaeger/ansible-dracoon](https://github.com/hufschlaeger/ansible-dracoon) - Dracoon collection for ansible (1 month ago)
-- [hufschlaeger/.github](https://github.com/hufschlaeger/.github) - Organisation info (1 month ago)
+- [hufschlaeger/.github](https://github.com/hufschlaeger/.github) - Organisation info (2 months ago)
 - [Brandenburgisches-Landeshauptarchiv/.github](https://github.com/Brandenburgisches-Landeshauptarchiv/.github) -  (6 months ago)
 - [dhufe/tasky-aur](https://github.com/dhufe/tasky-aur) -  (6 months ago)
 - [dhufe/java_playground](https://github.com/dhufe/java_playground) - Just for playing with JAVA snippets. (8 months ago)
@@ -65,8 +65,8 @@
 #### ⭐ Recent Stars
 
 - [trykuna/app](https://github.com/trykuna/app) - The source code for Kuna iOS (2 weeks ago)
-- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices. (2 weeks ago)
-- [golang/go](https://github.com/golang/go) - The Go programming language (2 weeks ago)
+- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices. (3 weeks ago)
+- [golang/go](https://github.com/golang/go) - The Go programming language (3 weeks ago)
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees. (2 months ago)
 - [kobtea/go-todoist](https://github.com/kobtea/go-todoist) - Unofficial CLI and library for todoist (5 months ago)
 - [lavnrw/xdomea-examples](https://github.com/lavnrw/xdomea-examples) - xdomea example files (5 months ago)
