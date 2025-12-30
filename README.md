@@ -7,7 +7,7 @@
 - [dhufe/markscribe](https://github.com/dhufe/markscribe) - Markdown scribe with template-engine and Git(Hub) & RSS powers (2 weeks ago)
 - [hufschlaeger/gitlab-tasks-exporter](https://github.com/hufschlaeger/gitlab-tasks-exporter) - Export GitLab issues into either a Markdown report or sync it directly into Todoist as tasks (2 weeks ago)
 - [hufschlaeger/gitlab-downloader](https://github.com/hufschlaeger/gitlab-downloader) - SImple gitlab downloader written in go.  (2 weeks ago)
-- [hufschlaeger/ansible-soap](https://github.com/hufschlaeger/ansible-soap) - SOAP module for Ansible (4 weeks ago)
+- [hufschlaeger/ansible-soap](https://github.com/hufschlaeger/ansible-soap) - SOAP module for Ansible (1 month ago)
 - [KarstenSuess/design_pattern_example](https://github.com/KarstenSuess/design_pattern_example) -  (1 month ago)
 - [hufschlaeger/ansible-dracoon](https://github.com/hufschlaeger/ansible-dracoon) - Dracoon collection for ansible (2 months ago)
 - [hufschlaeger/.github](https://github.com/hufschlaeger/.github) - Organisation info (2 months ago)
@@ -73,7 +73,7 @@
 - [geekifan/hugo-theme-chirpy](https://github.com/geekifan/hugo-theme-chirpy) - A hugo version of Chirpy Theme. (5 months ago)
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron (5 months ago)
 - [CamiloGarciaLaRotta/kboard](https://github.com/CamiloGarciaLaRotta/kboard) - Terminal game to practice keyboard typing (6 months ago)
-- [shahriaarrr/Tasky](https://github.com/shahriaarrr/Tasky) - CLI TODO list with GO (6 months ago)
+- [shahriaarrr/Tasky](https://github.com/shahriaarrr/Tasky) - CLI TODO list with GO (7 months ago)
 
 ### 📝 My recent blog posts
 
