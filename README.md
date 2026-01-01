@@ -65,8 +65,8 @@
 #### ⭐ Recent Stars
 
 - [trykuna/app](https://github.com/trykuna/app) - The source code for Kuna iOS (3 weeks ago)
-- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices. (3 weeks ago)
-- [golang/go](https://github.com/golang/go) - The Go programming language (3 weeks ago)
+- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices. (4 weeks ago)
+- [golang/go](https://github.com/golang/go) - The Go programming language (4 weeks ago)
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees. (2 months ago)
 - [kobtea/go-todoist](https://github.com/kobtea/go-todoist) - Unofficial CLI and library for todoist (5 months ago)
 - [lavnrw/xdomea-examples](https://github.com/lavnrw/xdomea-examples) - xdomea example files (5 months ago)
