@@ -65,20 +65,20 @@
 #### ⭐ Recent Stars
 
 - [trykuna/app](https://github.com/trykuna/app) - The source code for Kuna iOS (1 month ago)
-- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices. (1 month ago)
-- [golang/go](https://github.com/golang/go) - The Go programming language (1 month ago)
+- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices. (2 months ago)
+- [golang/go](https://github.com/golang/go) - The Go programming language (2 months ago)
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees. (3 months ago)
 - [kobtea/go-todoist](https://github.com/kobtea/go-todoist) - Unofficial CLI and library for todoist (6 months ago)
 - [lavnrw/xdomea-examples](https://github.com/lavnrw/xdomea-examples) - xdomea example files (6 months ago)
 - [geekifan/hugo-theme-chirpy](https://github.com/geekifan/hugo-theme-chirpy) - A hugo version of Chirpy Theme. (6 months ago)
-- [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron (6 months ago)
+- [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron (7 months ago)
 - [CamiloGarciaLaRotta/kboard](https://github.com/CamiloGarciaLaRotta/kboard) - Terminal game to practice keyboard typing (8 months ago)
 - [shahriaarrr/Tasky](https://github.com/shahriaarrr/Tasky) - CLI TODO list with GO (8 months ago)
 
 ### 📝 My recent blog posts
 
 
-- [macOS vom Schlafen abhalten](https://hufschlaeger.net/blog/2025/10/05/macos-vom-schlafen-abhalten/) (3 months ago)
+- [macOS vom Schlafen abhalten](https://hufschlaeger.net/blog/2025/10/05/macos-vom-schlafen-abhalten/) (4 months ago)
 - [Ghostty - terminfo](https://hufschlaeger.net/blog/2025/09/08/ghostty-terminfo/) (4 months ago)
 - [Linkdump 27/2024](https://hufschlaeger.net/blog/2024/07/07/linkdump-27/2024/) (2 years ago)
 - [Caclulating QR-Code URLs for the Actimel/Pokémon lottery](https://hufschlaeger.net/blog/2024/06/14/caclulating-qr-code-urls-for-the-actimel/pok%C3%A9mon-lottery/) (2 years ago)
