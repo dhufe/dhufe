@@ -79,7 +79,7 @@
 
 
 - [macOS vom Schlafen abhalten](https://hufschlaeger.net/blog/2025/10/05/macos-vom-schlafen-abhalten/) (4 months ago)
-- [Ghostty - terminfo](https://hufschlaeger.net/blog/2025/09/08/ghostty-terminfo/) (4 months ago)
+- [Ghostty - terminfo](https://hufschlaeger.net/blog/2025/09/08/ghostty-terminfo/) (5 months ago)
 - [Linkdump 27/2024](https://hufschlaeger.net/blog/2024/07/07/linkdump-27/2024/) (2 years ago)
 - [Caclulating QR-Code URLs for the Actimel/Pokémon lottery](https://hufschlaeger.net/blog/2024/06/14/caclulating-qr-code-urls-for-the-actimel/pok%C3%A9mon-lottery/) (2 years ago)
 - [Linkdump 26/2024](https://hufschlaeger.net/blog/2024/05/10/linkdump-26/2024/) (2 years ago)
