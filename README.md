@@ -4,6 +4,7 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [dhufe/taskchampion-web](https://github.com/dhufe/taskchampion-web) -  (today)
 - [dhufe/IngestListApiWrapper](https://github.com/dhufe/IngestListApiWrapper) -  (2 weeks ago)
 - [dhufe/markscribe](https://github.com/dhufe/markscribe) - Markdown scribe with template-engine and Git(Hub) & RSS powers (3 weeks ago)
 - [hufschlaeger/gitlab-tasks-exporter](https://github.com/hufschlaeger/gitlab-tasks-exporter) - Export GitLab issues into either a Markdown report or sync it directly into Todoist as tasks (2 months ago)
@@ -13,11 +14,11 @@
 - [hufschlaeger/ansible-dracoon](https://github.com/hufschlaeger/ansible-dracoon) - Dracoon collection for ansible (3 months ago)
 - [hufschlaeger/.github](https://github.com/hufschlaeger/.github) - Organisation info (3 months ago)
 - [Brandenburgisches-Landeshauptarchiv/.github](https://github.com/Brandenburgisches-Landeshauptarchiv/.github) -  (7 months ago)
-- [dhufe/tasky-aur](https://github.com/dhufe/tasky-aur) -  (7 months ago)
 
 #### 🌱 My latest projects
 
 
+- [dhufe/taskchampion-web](https://github.com/dhufe/taskchampion-web) - 
 - [dhufe/markscribe](https://github.com/dhufe/markscribe) - Markdown scribe with template-engine and Git(Hub) & RSS powers
 - [dhufe/tasky-aur](https://github.com/dhufe/tasky-aur) - 
 - [dhufe/IngestListApiWrapper](https://github.com/dhufe/IngestListApiWrapper) - 
@@ -27,7 +28,6 @@
 - [dhufe/docker-python-app](https://github.com/dhufe/docker-python-app) - 🐳 Docker image to deploy a 🐍 Python app hosted on a Git repository
 - [dhufe/java_playground](https://github.com/dhufe/java_playground) - Just for playing with JAVA snippets.
 - [dhufe/codewars](https://github.com/dhufe/codewars) - 🍻 CodeWars Solutions
-- [dhufe/blha_application](https://github.com/dhufe/blha_application) - 
 
 #### 🔨 My recent Pull Requests
 
