@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add HTTP/HTTPS proxy support to client configuration](https://github.com/GothenburgBitFactory/taskchampion/pull/683) on [GothenburgBitFactory/taskchampion](https://github.com/GothenburgBitFactory/taskchampion) (today)
 - [Gitlab worker fails because index out of range](https://github.com/GothenburgBitFactory/bugwarrior/pull/1184) on [GothenburgBitFactory/bugwarrior](https://github.com/GothenburgBitFactory/bugwarrior) (today)
 - [Improve compatibility to memos 0.25.3.](https://github.com/mudkipme/mortis/pull/9) on [mudkipme/mortis](https://github.com/mudkipme/mortis) (2 months ago)
 - [Update release workflow to include manual release notes](https://github.com/hufschlaeger/gitlab-tasks-exporter/pull/2) on [hufschlaeger/gitlab-tasks-exporter](https://github.com/hufschlaeger/gitlab-tasks-exporter) (4 months ago)
@@ -40,7 +41,6 @@
 - [recentStars does not return](https://github.com/muesli/markscribe/pull/99) on [muesli/markscribe](https://github.com/muesli/markscribe) (11 months ago)
 - [Fixing autocomplete and adding citation extraction](https://github.com/mangecoeur/Citer/pull/43) on [mangecoeur/Citer](https://github.com/mangecoeur/Citer) (4 years ago)
 - [Fixing projectbased bibliography file settings.](https://github.com/sjpfenninger/citebibtex/pull/20) on [sjpfenninger/citebibtex](https://github.com/sjpfenninger/citebibtex) (4 years ago)
-- [Adding projectbased bibtex-file option.](https://github.com/mangecoeur/Citer/pull/42) on [mangecoeur/Citer](https://github.com/mangecoeur/Citer) (4 years ago)
 
 #### 🔨 My recent Issues
 
