@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Gitlab worker fails because index out of range](https://github.com/GothenburgBitFactory/bugwarrior/pull/1184) on [GothenburgBitFactory/bugwarrior](https://github.com/GothenburgBitFactory/bugwarrior) (today)
 - [Improve compatibility to memos 0.25.3.](https://github.com/mudkipme/mortis/pull/9) on [mudkipme/mortis](https://github.com/mudkipme/mortis) (2 months ago)
 - [Update release workflow to include manual release notes](https://github.com/hufschlaeger/gitlab-tasks-exporter/pull/2) on [hufschlaeger/gitlab-tasks-exporter](https://github.com/hufschlaeger/gitlab-tasks-exporter) (4 months ago)
 - [Create GitHub repo](https://github.com/hufschlaeger/gitlab-tasks-exporter/pull/1) on [hufschlaeger/gitlab-tasks-exporter](https://github.com/hufschlaeger/gitlab-tasks-exporter) (4 months ago)
@@ -51,6 +52,7 @@
 
 #### 🍴 My recent forks
 
+- [dhufe/bugwarrior](https://github.com/dhufe/bugwarrior) - Pull github, bitbucket, and trac issues into taskwarrior
 - [dhufe/mortis](https://github.com/dhufe/mortis) - A self-hosted server for Moe Memos that provides Memos 0.21.0 OpenAPI support
 - [dhufe/ha_link2home](https://github.com/dhufe/ha_link2home) - Link2Home integration for Home Assistant
 - [dhufe/Tasky](https://github.com/dhufe/Tasky) - CLI TODO list with GO
@@ -60,7 +62,6 @@
 - [dhufe/citebibtex](https://github.com/dhufe/citebibtex) - Effortlessly insert citations from BibTeX into texts written in Pandoc or LaTeX
 - [dhufe/Citer](https://github.com/dhufe/Citer) -  Citations from bibtex for Sublime Text 3
 - [dhufe/vim-zettel](https://github.com/dhufe/vim-zettel) - VimWiki addon for managing notes according to Zettelkasten method
-- [dhufe/FirIA](https://github.com/dhufe/FirIA) - iA Writer Template
 
 #### ⭐ Recent Stars
 
