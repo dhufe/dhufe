@@ -52,6 +52,7 @@
 
 #### 🍴 My recent forks
 
+- [dhufe/taskw](https://github.com/dhufe/taskw) - python taskwarrior api
 - [dhufe/taskchampion](https://github.com/dhufe/taskchampion) - Personal task-tracking library
 - [dhufe/bugwarrior](https://github.com/dhufe/bugwarrior) - Pull github, bitbucket, and trac issues into taskwarrior
 - [dhufe/mortis](https://github.com/dhufe/mortis) - A self-hosted server for Moe Memos that provides Memos 0.21.0 OpenAPI support
@@ -61,7 +62,6 @@
 - [dhufe/DoIt](https://github.com/dhufe/DoIt) - A clean, elegant and advanced blog theme for Hugo.
 - [dhufe/OctoPrint-GpioControl](https://github.com/dhufe/OctoPrint-GpioControl) - 
 - [dhufe/citebibtex](https://github.com/dhufe/citebibtex) - Effortlessly insert citations from BibTeX into texts written in Pandoc or LaTeX
-- [dhufe/Citer](https://github.com/dhufe/Citer) -  Citations from bibtex for Sublime Text 3
 
 #### ⭐ Recent Stars
 
