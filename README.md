@@ -36,7 +36,7 @@
 - [Improve compatibility to memos 0.25.3.](https://github.com/mudkipme/mortis/pull/9) on [mudkipme/mortis](https://github.com/mudkipme/mortis) (2 months ago)
 - [Update release workflow to include manual release notes](https://github.com/hufschlaeger/gitlab-tasks-exporter/pull/2) on [hufschlaeger/gitlab-tasks-exporter](https://github.com/hufschlaeger/gitlab-tasks-exporter) (4 months ago)
 - [Create GitHub repo](https://github.com/hufschlaeger/gitlab-tasks-exporter/pull/1) on [hufschlaeger/gitlab-tasks-exporter](https://github.com/hufschlaeger/gitlab-tasks-exporter) (4 months ago)
-- [Separate cli functionality and data structure.](https://github.com/shahriaarrr/Tasky/pull/22) on [shahriaarrr/Tasky](https://github.com/shahriaarrr/Tasky) (7 months ago)
+- [Separate cli functionality and data structure.](https://github.com/shahriaarrr/Tasky/pull/22) on [shahriaarrr/Tasky](https://github.com/shahriaarrr/Tasky) (8 months ago)
 - [Adding RenderString for render emoticons inside the footer.](https://github.com/HEIGE-PCloud/DoIt/pull/1446) on [HEIGE-PCloud/DoIt](https://github.com/HEIGE-PCloud/DoIt) (11 months ago)
 - [recentStars does not return](https://github.com/muesli/markscribe/pull/99) on [muesli/markscribe](https://github.com/muesli/markscribe) (11 months ago)
 - [Fixing autocomplete and adding citation extraction](https://github.com/mangecoeur/Citer/pull/43) on [mangecoeur/Citer](https://github.com/mangecoeur/Citer) (4 years ago)
