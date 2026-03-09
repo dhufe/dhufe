@@ -65,6 +65,7 @@
 
 #### ⭐ Recent Stars
 
+- [stoeps13/ublue-stoeps](https://github.com/stoeps13/ublue-stoeps) - Starting point for making your own OS image (today)
 - [trykuna/app](https://github.com/trykuna/app) - The source code for Kuna iOS (2 months ago)
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices. (3 months ago)
 - [golang/go](https://github.com/golang/go) - The Go programming language (3 months ago)
@@ -74,7 +75,6 @@
 - [geekifan/hugo-theme-chirpy](https://github.com/geekifan/hugo-theme-chirpy) - A hugo version of Chirpy Theme. (8 months ago)
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron (8 months ago)
 - [CamiloGarciaLaRotta/kboard](https://github.com/CamiloGarciaLaRotta/kboard) - Terminal game to practice keyboard typing (9 months ago)
-- [shahriaarrr/Tasky](https://github.com/shahriaarrr/Tasky) - CLI TODO list with GO (9 months ago)
 
 ### 📝 My recent blog posts
 
