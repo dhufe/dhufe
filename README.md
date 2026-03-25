@@ -52,6 +52,7 @@
 
 #### 🍴 My recent forks
 
+- [dhufe/xdomea_toolkit](https://github.com/dhufe/xdomea_toolkit) - xdomea-Toolkit für Testaussonderungsnachrichten
 - [dhufe/taskw](https://github.com/dhufe/taskw) - python taskwarrior api
 - [dhufe/taskchampion](https://github.com/dhufe/taskchampion) - Personal task-tracking library
 - [dhufe/bugwarrior](https://github.com/dhufe/bugwarrior) - Pull github, bitbucket, and trac issues into taskwarrior
@@ -61,10 +62,10 @@
 - [dhufe/readme-scribe](https://github.com/dhufe/readme-scribe) - A GitHub Action that automatically generates & updates markdown content (like your README.md)
 - [dhufe/DoIt](https://github.com/dhufe/DoIt) - A clean, elegant and advanced blog theme for Hugo.
 - [dhufe/OctoPrint-GpioControl](https://github.com/dhufe/OctoPrint-GpioControl) - 
-- [dhufe/citebibtex](https://github.com/dhufe/citebibtex) - Effortlessly insert citations from BibTeX into texts written in Pandoc or LaTeX
 
 #### ⭐ Recent Stars
 
+- [Landesarchiv-Thueringen/xdomea_toolkit](https://github.com/Landesarchiv-Thueringen/xdomea_toolkit) - xdomea-Toolkit für Testaussonderungsnachrichten (today)
 - [stoeps13/ublue-stoeps](https://github.com/stoeps13/ublue-stoeps) - Starting point for making your own OS image (2 weeks ago)
 - [trykuna/app](https://github.com/trykuna/app) - The source code for Kuna iOS (3 months ago)
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices. (3 months ago)
@@ -74,7 +75,6 @@
 - [lavnrw/xdomea-examples](https://github.com/lavnrw/xdomea-examples) - xdomea example files (8 months ago)
 - [geekifan/hugo-theme-chirpy](https://github.com/geekifan/hugo-theme-chirpy) - A hugo version of Chirpy Theme. (8 months ago)
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron (8 months ago)
-- [CamiloGarciaLaRotta/kboard](https://github.com/CamiloGarciaLaRotta/kboard) - Terminal game to practice keyboard typing (9 months ago)
 
 ### 📝 My recent blog posts
 
