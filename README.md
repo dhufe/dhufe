@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix incorrect XPath expressions in config.py](https://github.com/Landesarchiv-Thueringen/xdomea_toolkit/pull/6) on [Landesarchiv-Thueringen/xdomea_toolkit](https://github.com/Landesarchiv-Thueringen/xdomea_toolkit) (today)
 - [Add HTTP/HTTPS proxy support to client configuration](https://github.com/GothenburgBitFactory/taskchampion/pull/683) on [GothenburgBitFactory/taskchampion](https://github.com/GothenburgBitFactory/taskchampion) (1 month ago)
 - [Gitlab worker fails because index out of range](https://github.com/GothenburgBitFactory/bugwarrior/pull/1184) on [GothenburgBitFactory/bugwarrior](https://github.com/GothenburgBitFactory/bugwarrior) (1 month ago)
 - [Improve compatibility to memos 0.25.3.](https://github.com/mudkipme/mortis/pull/9) on [mudkipme/mortis](https://github.com/mudkipme/mortis) (3 months ago)
@@ -40,10 +41,10 @@
 - [Adding RenderString for render emoticons inside the footer.](https://github.com/HEIGE-PCloud/DoIt/pull/1446) on [HEIGE-PCloud/DoIt](https://github.com/HEIGE-PCloud/DoIt) (1 year ago)
 - [recentStars does not return](https://github.com/muesli/markscribe/pull/99) on [muesli/markscribe](https://github.com/muesli/markscribe) (1 year ago)
 - [Fixing autocomplete and adding citation extraction](https://github.com/mangecoeur/Citer/pull/43) on [mangecoeur/Citer](https://github.com/mangecoeur/Citer) (4 years ago)
-- [Fixing projectbased bibliography file settings.](https://github.com/sjpfenninger/citebibtex/pull/20) on [sjpfenninger/citebibtex](https://github.com/sjpfenninger/citebibtex) (4 years ago)
 
 #### 🔨 My recent Issues
 
+- [Landesarchiv-Thueringen/xdomea_toolkit](https://github.com/Landesarchiv-Thueringen/xdomea_toolkit) - FutureWarning for incorrect XPath searches in config.py (today)
 - [ansible/galaxy](https://github.com/ansible/galaxy) - Request namespace: hufschlaeger (5 months ago)
 
 #### 📓 Gists I wrote
