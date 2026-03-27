@@ -4,7 +4,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [dhufe/taskchampion-web](https://github.com/dhufe/taskchampion-web) -  (1 week ago)
+- [dhufe/taskchampion-web](https://github.com/dhufe/taskchampion-web) -  (today)
+- [dhufe/gitlab-metrics-collector](https://github.com/dhufe/gitlab-metrics-collector) - 📊 A metrics scraper for Gitlab  (today)
 - [dhufe/IngestListApiWrapper](https://github.com/dhufe/IngestListApiWrapper) -  (1 week ago)
 - [dhufe/markscribe](https://github.com/dhufe/markscribe) - Markdown scribe with template-engine and Git(Hub) & RSS powers (2 weeks ago)
 - [dhufe/prometheus_fastapi_test](https://github.com/dhufe/prometheus_fastapi_test) -  (3 weeks ago)
@@ -13,11 +14,11 @@
 - [hufschlaeger/ansible-soap](https://github.com/hufschlaeger/ansible-soap) - SOAP module for Ansible (3 months ago)
 - [KarstenSuess/design_pattern_example](https://github.com/KarstenSuess/design_pattern_example) -  (4 months ago)
 - [hufschlaeger/ansible-dracoon](https://github.com/hufschlaeger/ansible-dracoon) - Dracoon collection for ansible (5 months ago)
-- [hufschlaeger/.github](https://github.com/hufschlaeger/.github) - Organisation info (5 months ago)
 
 #### 🌱 My latest projects
 
 
+- [dhufe/gitlab-metrics-collector](https://github.com/dhufe/gitlab-metrics-collector) - 📊 A metrics scraper for Gitlab 
 - [dhufe/prometheus_fastapi_test](https://github.com/dhufe/prometheus_fastapi_test) - 
 - [dhufe/taskchampion-web](https://github.com/dhufe/taskchampion-web) - 
 - [dhufe/markscribe](https://github.com/dhufe/markscribe) - Markdown scribe with template-engine and Git(Hub) & RSS powers
@@ -27,7 +28,6 @@
 - [dhufe/go-ssd1305](https://github.com/dhufe/go-ssd1305) - Simply control a GLCD with go.
 - [dhufe/mkdocs-demo](https://github.com/dhufe/mkdocs-demo) - 
 - [dhufe/docker-python-app](https://github.com/dhufe/docker-python-app) - 🐳 Docker image to deploy a 🐍 Python app hosted on a Git repository
-- [dhufe/java_playground](https://github.com/dhufe/java_playground) - Just for playing with JAVA snippets.
 
 #### 🔨 My recent Pull Requests
 
