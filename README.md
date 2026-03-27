@@ -66,6 +66,7 @@
 
 #### ⭐ Recent Stars
 
+- [Landesarchiv-Thueringen/x-man](https://github.com/Landesarchiv-Thueringen/x-man) - Ansicht, Bewertung und Archivierung von xdomea Aussonderungsnachrichten (today)
 - [Landesarchiv-Thueringen/xdomea_toolkit](https://github.com/Landesarchiv-Thueringen/xdomea_toolkit) - xdomea-Toolkit für Testaussonderungsnachrichten (2 days ago)
 - [stoeps13/ublue-stoeps](https://github.com/stoeps13/ublue-stoeps) - Starting point for making your own OS image (2 weeks ago)
 - [trykuna/app](https://github.com/trykuna/app) - The source code for Kuna iOS (3 months ago)
@@ -75,7 +76,6 @@
 - [kobtea/go-todoist](https://github.com/kobtea/go-todoist) - Unofficial CLI and library for todoist (8 months ago)
 - [lavnrw/xdomea-examples](https://github.com/lavnrw/xdomea-examples) - xdomea example files (8 months ago)
 - [geekifan/hugo-theme-chirpy](https://github.com/geekifan/hugo-theme-chirpy) - A hugo version of Chirpy Theme. (8 months ago)
-- [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron (8 months ago)
 
 ### 📝 My recent blog posts
 
