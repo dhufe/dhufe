@@ -4,11 +4,11 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [dhufe/taskchampion-web](https://github.com/dhufe/taskchampion-web) -  (today)
+- [hufschlaeger/gitlab-downloader](https://github.com/hufschlaeger/gitlab-downloader) - SImple gitlab downloader written in go.  (today)
+- [hufschlaeger/gitlab-tasks-exporter](https://github.com/hufschlaeger/gitlab-tasks-exporter) - Export GitLab issues into either a Markdown report or sync it directly into Todoist as tasks (today)
 - [dhufe/markscribe](https://github.com/dhufe/markscribe) - Markdown scribe with template-engine and Git(Hub) & RSS powers (1 week ago)
-- [hufschlaeger/gitlab-downloader](https://github.com/hufschlaeger/gitlab-downloader) - SImple gitlab downloader written in go.  (1 week ago)
-- [hufschlaeger/gitlab-tasks-exporter](https://github.com/hufschlaeger/gitlab-tasks-exporter) - Export GitLab issues into either a Markdown report or sync it directly into Todoist as tasks (1 week ago)
 - [dhufe/IngestListApiWrapper](https://github.com/dhufe/IngestListApiWrapper) -  (1 week ago)
-- [dhufe/taskchampion-web](https://github.com/dhufe/taskchampion-web) -  (1 week ago)
 - [dhufe/gitlab-metrics-collector](https://github.com/dhufe/gitlab-metrics-collector) - 📊 A metrics scraper for Gitlab  (1 week ago)
 - [dhufe/prometheus_fastapi_test](https://github.com/dhufe/prometheus_fastapi_test) -  (1 month ago)
 - [hufschlaeger/ansible-soap](https://github.com/hufschlaeger/ansible-soap) - SOAP module for Ansible (4 months ago)
