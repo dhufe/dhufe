@@ -49,6 +49,7 @@
 
 #### 📓 Gists I wrote
 
+- [GEMA gpt](https://gist.github.com/de65035bbd1beb90f4d4e10fe5e2ce06) (today)
 - [MS8607 sensor readings (humidity, temperature and ambient pressure) in python](https://gist.github.com/e536efcbcf6dde544f20d1cade238dc3) (8 years ago)
 
 #### 🍴 My recent forks
