@@ -36,7 +36,7 @@
 - [Fix incorrect XPath expressions in config.py](https://github.com/Landesarchiv-Thueringen/xdomea_toolkit/pull/6) on [Landesarchiv-Thueringen/xdomea_toolkit](https://github.com/Landesarchiv-Thueringen/xdomea_toolkit) (1 month ago)
 - [Add HTTP/HTTPS proxy support to client configuration](https://github.com/GothenburgBitFactory/taskchampion/pull/683) on [GothenburgBitFactory/taskchampion](https://github.com/GothenburgBitFactory/taskchampion) (2 months ago)
 - [Gitlab worker fails because index out of range](https://github.com/GothenburgBitFactory/bugwarrior/pull/1184) on [GothenburgBitFactory/bugwarrior](https://github.com/GothenburgBitFactory/bugwarrior) (2 months ago)
-- [Improve compatibility to memos 0.25.3.](https://github.com/mudkipme/mortis/pull/9) on [mudkipme/mortis](https://github.com/mudkipme/mortis) (4 months ago)
+- [Improve compatibility to memos 0.25.3.](https://github.com/mudkipme/mortis/pull/9) on [mudkipme/mortis](https://github.com/mudkipme/mortis) (5 months ago)
 - [Update release workflow to include manual release notes](https://github.com/hufschlaeger/gitlab-tasks-exporter/pull/2) on [hufschlaeger/gitlab-tasks-exporter](https://github.com/hufschlaeger/gitlab-tasks-exporter) (6 months ago)
 - [Create GitHub repo](https://github.com/hufschlaeger/gitlab-tasks-exporter/pull/1) on [hufschlaeger/gitlab-tasks-exporter](https://github.com/hufschlaeger/gitlab-tasks-exporter) (6 months ago)
 - [Separate cli functionality and data structure.](https://github.com/shahriaarrr/Tasky/pull/22) on [shahriaarrr/Tasky](https://github.com/shahriaarrr/Tasky) (10 months ago)
@@ -49,7 +49,7 @@
 
 #### 📓 Gists I wrote
 
-- [GEMA gpt](https://gist.github.com/de65035bbd1beb90f4d4e10fe5e2ce06) (2 days ago)
+- [GEMA gpt](https://gist.github.com/de65035bbd1beb90f4d4e10fe5e2ce06) (3 days ago)
 - [MS8607 sensor readings (humidity, temperature and ambient pressure) in python](https://gist.github.com/e536efcbcf6dde544f20d1cade238dc3) (8 years ago)
 
 #### 🍴 My recent forks
