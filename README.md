@@ -31,7 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add Justfile for building and pushing container images](https://github.com/Landesarchiv-Thueringen/borg/pull/2) on [Landesarchiv-Thueringen/borg](https://github.com/Landesarchiv-Thueringen/borg) (2 weeks ago)
+- [Add Justfile for building and pushing container images](https://github.com/Landesarchiv-Thueringen/borg/pull/2) on [Landesarchiv-Thueringen/borg](https://github.com/Landesarchiv-Thueringen/borg) (3 weeks ago)
 - [Add support for xdomea 4.0.0](https://github.com/Landesarchiv-Thueringen/xdomea_toolkit/pull/7) on [Landesarchiv-Thueringen/xdomea_toolkit](https://github.com/Landesarchiv-Thueringen/xdomea_toolkit) (1 month ago)
 - [Fix incorrect XPath expressions in config.py](https://github.com/Landesarchiv-Thueringen/xdomea_toolkit/pull/6) on [Landesarchiv-Thueringen/xdomea_toolkit](https://github.com/Landesarchiv-Thueringen/xdomea_toolkit) (1 month ago)
 - [Add HTTP/HTTPS proxy support to client configuration](https://github.com/GothenburgBitFactory/taskchampion/pull/683) on [GothenburgBitFactory/taskchampion](https://github.com/GothenburgBitFactory/taskchampion) (2 months ago)
@@ -49,7 +49,7 @@
 
 #### 📓 Gists I wrote
 
-- [GEMA gpt](https://gist.github.com/de65035bbd1beb90f4d4e10fe5e2ce06) (5 days ago)
+- [GEMA gpt](https://gist.github.com/de65035bbd1beb90f4d4e10fe5e2ce06) (6 days ago)
 - [MS8607 sensor readings (humidity, temperature and ambient pressure) in python](https://gist.github.com/e536efcbcf6dde544f20d1cade238dc3) (8 years ago)
 
 #### 🍴 My recent forks
