@@ -6,8 +6,8 @@
 
 - [dhufe/taskchampion-web](https://github.com/dhufe/taskchampion-web) -  (3 weeks ago)
 - [dhufe/IngestListApiWrapper](https://github.com/dhufe/IngestListApiWrapper) -  (3 weeks ago)
-- [hufschlaeger/gitlab-downloader](https://github.com/hufschlaeger/gitlab-downloader) - SImple gitlab downloader written in go.  (3 weeks ago)
-- [hufschlaeger/gitlab-tasks-exporter](https://github.com/hufschlaeger/gitlab-tasks-exporter) - Export GitLab issues into either a Markdown report or sync it directly into Todoist as tasks (3 weeks ago)
+- [hufschlaeger/gitlab-downloader](https://github.com/hufschlaeger/gitlab-downloader) - SImple gitlab downloader written in go.  (4 weeks ago)
+- [hufschlaeger/gitlab-tasks-exporter](https://github.com/hufschlaeger/gitlab-tasks-exporter) - Export GitLab issues into either a Markdown report or sync it directly into Todoist as tasks (4 weeks ago)
 - [dhufe/markscribe](https://github.com/dhufe/markscribe) - Markdown scribe with template-engine and Git(Hub) & RSS powers (1 month ago)
 - [dhufe/gitlab-metrics-collector](https://github.com/dhufe/gitlab-metrics-collector) - 📊 A metrics scraper for Gitlab  (1 month ago)
 - [dhufe/prometheus_fastapi_test](https://github.com/dhufe/prometheus_fastapi_test) -  (2 months ago)
@@ -72,8 +72,8 @@
 - [Landesarchiv-Thueringen/xdomea_toolkit](https://github.com/Landesarchiv-Thueringen/xdomea_toolkit) - xdomea-Toolkit für Testaussonderungsnachrichten (1 month ago)
 - [stoeps13/ublue-stoeps](https://github.com/stoeps13/ublue-stoeps) - Starting point for making your own OS image (1 month ago)
 - [trykuna/app](https://github.com/trykuna/app) - The source code for Kuna iOS (4 months ago)
-- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices. (4 months ago)
-- [golang/go](https://github.com/golang/go) - The Go programming language (4 months ago)
+- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices. (5 months ago)
+- [golang/go](https://github.com/golang/go) - The Go programming language (5 months ago)
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours. (6 months ago)
 - [kobtea/go-todoist](https://github.com/kobtea/go-todoist) - Unofficial CLI and library for todoist (9 months ago)
 - [lavnrw/xdomea-examples](https://github.com/lavnrw/xdomea-examples) - xdomea example files (9 months ago)
@@ -81,7 +81,7 @@
 ### 📝 My recent blog posts
 
 
-- [macOS vom Schlafen abhalten](https://hufschlaeger.net/blog/2025/10/05/macos-vom-schlafen-abhalten/) (6 months ago)
+- [macOS vom Schlafen abhalten](https://hufschlaeger.net/blog/2025/10/05/macos-vom-schlafen-abhalten/) (7 months ago)
 - [Ghostty - terminfo](https://hufschlaeger.net/blog/2025/09/08/ghostty-terminfo/) (7 months ago)
 - [Linkdump 27/2024](https://hufschlaeger.net/blog/2024/07/07/linkdump-27/2024/) (2 years ago)
 - [Caclulating QR-Code URLs for the Actimel/Pokémon lottery](https://hufschlaeger.net/blog/2024/06/14/caclulating-qr-code-urls-for-the-actimel/pok%C3%A9mon-lottery/) (2 years ago)
