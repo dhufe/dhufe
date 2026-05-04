@@ -67,7 +67,7 @@
 
 #### ⭐ Recent Stars
 
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (1 week ago)
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (2 weeks ago)
 - [Landesarchiv-Thueringen/x-man](https://github.com/Landesarchiv-Thueringen/x-man) - Ansicht, Bewertung und Archivierung von xdomea Aussonderungsnachrichten (1 month ago)
 - [Landesarchiv-Thueringen/xdomea_toolkit](https://github.com/Landesarchiv-Thueringen/xdomea_toolkit) - xdomea-Toolkit für Testaussonderungsnachrichten (1 month ago)
 - [stoeps13/ublue-stoeps](https://github.com/stoeps13/ublue-stoeps) - Starting point for making your own OS image (1 month ago)
