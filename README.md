@@ -12,7 +12,7 @@
 - [dhufe/gitlab-metrics-collector](https://github.com/dhufe/gitlab-metrics-collector) - 📊 A metrics scraper for Gitlab  (1 month ago)
 - [dhufe/prometheus_fastapi_test](https://github.com/dhufe/prometheus_fastapi_test) -  (2 months ago)
 - [hufschlaeger/ansible-soap](https://github.com/hufschlaeger/ansible-soap) - SOAP module for Ansible (5 months ago)
-- [KarstenSuess/design_pattern_example](https://github.com/KarstenSuess/design_pattern_example) -  (5 months ago)
+- [KarstenSuess/design_pattern_example](https://github.com/KarstenSuess/design_pattern_example) -  (6 months ago)
 - [hufschlaeger/ansible-dracoon](https://github.com/hufschlaeger/ansible-dracoon) - Dracoon collection for ansible (6 months ago)
 
 #### 🌱 My latest projects
@@ -31,7 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add Justfile for building and pushing container images](https://github.com/Landesarchiv-Thueringen/borg/pull/2) on [Landesarchiv-Thueringen/borg](https://github.com/Landesarchiv-Thueringen/borg) (4 weeks ago)
+- [Add Justfile for building and pushing container images](https://github.com/Landesarchiv-Thueringen/borg/pull/2) on [Landesarchiv-Thueringen/borg](https://github.com/Landesarchiv-Thueringen/borg) (1 month ago)
 - [Add support for xdomea 4.0.0](https://github.com/Landesarchiv-Thueringen/xdomea_toolkit/pull/7) on [Landesarchiv-Thueringen/xdomea_toolkit](https://github.com/Landesarchiv-Thueringen/xdomea_toolkit) (1 month ago)
 - [Fix incorrect XPath expressions in config.py](https://github.com/Landesarchiv-Thueringen/xdomea_toolkit/pull/6) on [Landesarchiv-Thueringen/xdomea_toolkit](https://github.com/Landesarchiv-Thueringen/xdomea_toolkit) (1 month ago)
 - [Add HTTP/HTTPS proxy support to client configuration](https://github.com/GothenburgBitFactory/taskchampion/pull/683) on [GothenburgBitFactory/taskchampion](https://github.com/GothenburgBitFactory/taskchampion) (2 months ago)
