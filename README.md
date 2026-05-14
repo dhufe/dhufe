@@ -76,7 +76,7 @@
 - [golang/go](https://github.com/golang/go) - The Go programming language (5 months ago)
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours. (6 months ago)
 - [kobtea/go-todoist](https://github.com/kobtea/go-todoist) - Unofficial CLI and library for todoist (9 months ago)
-- [lavnrw/xdomea-examples](https://github.com/lavnrw/xdomea-examples) - xdomea example files (9 months ago)
+- [lavnrw/xdomea-examples](https://github.com/lavnrw/xdomea-examples) - xdomea example files (10 months ago)
 
 ### 📝 My recent blog posts
 
