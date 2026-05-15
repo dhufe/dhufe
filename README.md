@@ -54,6 +54,7 @@
 
 #### 🍴 My recent forks
 
+- [dhufe/hugo-PaperMod](https://github.com/dhufe/hugo-PaperMod) -  A fast, clean, responsive Hugo theme.
 - [dhufe/borg](https://github.com/dhufe/borg) - Programm zur Formaterkennung und -validierung
 - [dhufe/xdomea_toolkit](https://github.com/dhufe/xdomea_toolkit) - xdomea-Toolkit für Testaussonderungsnachrichten
 - [dhufe/taskw](https://github.com/dhufe/taskw) - python taskwarrior api
@@ -63,10 +64,10 @@
 - [dhufe/ha_link2home](https://github.com/dhufe/ha_link2home) - Link2Home integration for Home Assistant
 - [dhufe/Tasky](https://github.com/dhufe/Tasky) - CLI TODO list with GO
 - [dhufe/readme-scribe](https://github.com/dhufe/readme-scribe) - A GitHub Action that automatically generates & updates markdown content (like your README.md)
-- [dhufe/DoIt](https://github.com/dhufe/DoIt) - A clean, elegant and advanced blog theme for Hugo.
 
 #### ⭐ Recent Stars
 
+- [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo (today)
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (3 weeks ago)
 - [Landesarchiv-Thueringen/x-man](https://github.com/Landesarchiv-Thueringen/x-man) - Ansicht, Bewertung und Archivierung von xdomea Aussonderungsnachrichten (1 month ago)
 - [Landesarchiv-Thueringen/xdomea_toolkit](https://github.com/Landesarchiv-Thueringen/xdomea_toolkit) - xdomea-Toolkit für Testaussonderungsnachrichten (1 month ago)
@@ -76,7 +77,6 @@
 - [golang/go](https://github.com/golang/go) - The Go programming language (5 months ago)
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours. (6 months ago)
 - [kobtea/go-todoist](https://github.com/kobtea/go-todoist) - Unofficial CLI and library for todoist (9 months ago)
-- [lavnrw/xdomea-examples](https://github.com/lavnrw/xdomea-examples) - xdomea example files (10 months ago)
 
 ### 📝 My recent blog posts
 
