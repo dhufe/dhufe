@@ -67,7 +67,7 @@
 
 #### ⭐ Recent Stars
 
-- [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo (3 days ago)
+- [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo (4 days ago)
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (4 weeks ago)
 - [Landesarchiv-Thueringen/x-man](https://github.com/Landesarchiv-Thueringen/x-man) - Ansicht, Bewertung und Archivierung von xdomea Aussonderungsnachrichten (1 month ago)
 - [Landesarchiv-Thueringen/xdomea_toolkit](https://github.com/Landesarchiv-Thueringen/xdomea_toolkit) - xdomea-Toolkit für Testaussonderungsnachrichten (1 month ago)
@@ -75,13 +75,13 @@
 - [trykuna/app](https://github.com/trykuna/app) - The source code for Kuna iOS (5 months ago)
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices. (5 months ago)
 - [golang/go](https://github.com/golang/go) - The Go programming language (5 months ago)
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours. (6 months ago)
-- [kobtea/go-todoist](https://github.com/kobtea/go-todoist) - Unofficial CLI and library for todoist (9 months ago)
+- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours. (7 months ago)
+- [kobtea/go-todoist](https://github.com/kobtea/go-todoist) - Unofficial CLI and library for todoist (10 months ago)
 
 ### 📝 My recent blog posts
 
 
-- [Videos vom CCC mit einem Hugo-shortcode einbetten](https://hufschlaeger.net/blog/short-code-media-ccc-de/) (3 days ago)
+- [Videos vom CCC mit einem Hugo-shortcode einbetten](https://hufschlaeger.net/blog/short-code-media-ccc-de/) (4 days ago)
 - [macOS vom Schlafen abhalten](https://hufschlaeger.net/blog/citrix-macos-prevent-sleep/) (7 months ago)
 - [Ghostty - terminfo](https://hufschlaeger.net/blog/ghosttty_term/) (8 months ago)
 - [Linkdump 27/2024](https://hufschlaeger.net/blog/linkdump-kw27/) (2 years ago)
