@@ -4,7 +4,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [dhufe/taskchampion-web](https://github.com/dhufe/taskchampion-web) -  (1 day ago)
+- [dhufe/taskchampion-web](https://github.com/dhufe/taskchampion-web) -  (2 days ago)
 - [dhufe/IngestListApiWrapper](https://github.com/dhufe/IngestListApiWrapper) -  (1 month ago)
 - [hufschlaeger/gitlab-downloader](https://github.com/hufschlaeger/gitlab-downloader) - SImple gitlab downloader written in go.  (1 month ago)
 - [hufschlaeger/gitlab-tasks-exporter](https://github.com/hufschlaeger/gitlab-tasks-exporter) - Export GitLab issues into either a Markdown report or sync it directly into Todoist as tasks (1 month ago)
@@ -67,7 +67,7 @@
 
 #### ⭐ Recent Stars
 
-- [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo (5 days ago)
+- [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo (6 days ago)
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (1 month ago)
 - [Landesarchiv-Thueringen/x-man](https://github.com/Landesarchiv-Thueringen/x-man) - Ansicht, Bewertung und Archivierung von xdomea Aussonderungsnachrichten (1 month ago)
 - [Landesarchiv-Thueringen/xdomea_toolkit](https://github.com/Landesarchiv-Thueringen/xdomea_toolkit) - xdomea-Toolkit für Testaussonderungsnachrichten (1 month ago)
@@ -81,7 +81,7 @@
 ### 📝 My recent blog posts
 
 
-- [Videos vom CCC mit einem Hugo-shortcode einbetten](https://hufschlaeger.net/blog/short-code-media-ccc-de/) (5 days ago)
+- [Videos vom CCC mit einem Hugo-shortcode einbetten](https://hufschlaeger.net/blog/short-code-media-ccc-de/) (6 days ago)
 - [macOS vom Schlafen abhalten](https://hufschlaeger.net/blog/citrix-macos-prevent-sleep/) (7 months ago)
 - [Ghostty - terminfo](https://hufschlaeger.net/blog/ghosttty_term/) (8 months ago)
 - [Linkdump 27/2024](https://hufschlaeger.net/blog/linkdump-kw27/) (2 years ago)
