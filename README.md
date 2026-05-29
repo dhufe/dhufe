@@ -4,14 +4,14 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [dhufe/taskchampion-web](https://github.com/dhufe/taskchampion-web) -  (4 days ago)
+- [dhufe/taskchampion-web](https://github.com/dhufe/taskchampion-web) -  (5 days ago)
 - [dhufe/IngestListApiWrapper](https://github.com/dhufe/IngestListApiWrapper) -  (1 month ago)
 - [hufschlaeger/gitlab-downloader](https://github.com/hufschlaeger/gitlab-downloader) - SImple gitlab downloader written in go.  (1 month ago)
 - [hufschlaeger/gitlab-tasks-exporter](https://github.com/hufschlaeger/gitlab-tasks-exporter) - Export GitLab issues into either a Markdown report or sync it directly into Todoist as tasks (1 month ago)
 - [dhufe/markscribe](https://github.com/dhufe/markscribe) - Markdown scribe with template-engine and Git(Hub) & RSS powers (2 months ago)
 - [dhufe/gitlab-metrics-collector](https://github.com/dhufe/gitlab-metrics-collector) - 📊 A metrics scraper for Gitlab  (2 months ago)
 - [dhufe/prometheus_fastapi_test](https://github.com/dhufe/prometheus_fastapi_test) -  (2 months ago)
-- [hufschlaeger/ansible-soap](https://github.com/hufschlaeger/ansible-soap) - SOAP module for Ansible (5 months ago)
+- [hufschlaeger/ansible-soap](https://github.com/hufschlaeger/ansible-soap) - SOAP module for Ansible (6 months ago)
 - [KarstenSuess/design_pattern_example](https://github.com/KarstenSuess/design_pattern_example) -  (6 months ago)
 - [hufschlaeger/ansible-dracoon](https://github.com/hufschlaeger/ansible-dracoon) - Dracoon collection for ansible (7 months ago)
 
@@ -67,7 +67,7 @@
 
 #### ⭐ Recent Stars
 
-- [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo (1 week ago)
+- [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo (2 weeks ago)
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (1 month ago)
 - [Landesarchiv-Thueringen/x-man](https://github.com/Landesarchiv-Thueringen/x-man) - Ansicht, Bewertung und Archivierung von xdomea Aussonderungsnachrichten (2 months ago)
 - [Landesarchiv-Thueringen/xdomea_toolkit](https://github.com/Landesarchiv-Thueringen/xdomea_toolkit) - xdomea-Toolkit für Testaussonderungsnachrichten (2 months ago)
@@ -81,7 +81,7 @@
 ### 📝 My recent blog posts
 
 
-- [Videos vom CCC mit einem Hugo-shortcode einbetten](https://hufschlaeger.net/blog/short-code-media-ccc-de/) (1 week ago)
+- [Videos vom CCC mit einem Hugo-shortcode einbetten](https://hufschlaeger.net/blog/short-code-media-ccc-de/) (2 weeks ago)
 - [macOS vom Schlafen abhalten](https://hufschlaeger.net/blog/citrix-macos-prevent-sleep/) (7 months ago)
 - [Ghostty - terminfo](https://hufschlaeger.net/blog/ghosttty_term/) (8 months ago)
 - [Linkdump 27/2024](https://hufschlaeger.net/blog/linkdump-kw27/) (2 years ago)
