@@ -67,8 +67,8 @@
 
 #### ⭐ Recent Stars
 
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites. (today)
-- [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo (2 weeks ago)
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites. (1 day ago)
+- [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo (3 weeks ago)
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (1 month ago)
 - [Landesarchiv-Thueringen/x-man](https://github.com/Landesarchiv-Thueringen/x-man) - Ansicht, Bewertung und Archivierung von xdomea Aussonderungsnachrichten (2 months ago)
 - [Landesarchiv-Thueringen/xdomea_toolkit](https://github.com/Landesarchiv-Thueringen/xdomea_toolkit) - xdomea-Toolkit für Testaussonderungsnachrichten (2 months ago)
@@ -81,8 +81,8 @@
 ### 📝 My recent blog posts
 
 
-- [Videos vom CCC mit einem Hugo-shortcode einbetten](https://hufschlaeger.net/blog/short-code-media-ccc-de/) (2 weeks ago)
+- [Videos vom CCC mit einem Hugo-shortcode einbetten](https://hufschlaeger.net/blog/short-code-media-ccc-de/) (3 weeks ago)
 - [macOS vom Schlafen abhalten](https://hufschlaeger.net/blog/citrix-macos-prevent-sleep/) (8 months ago)
-- [Ghostty - terminfo](https://hufschlaeger.net/blog/ghosttty_term/) (8 months ago)
+- [Ghostty - terminfo](https://hufschlaeger.net/blog/ghosttty_term/) (9 months ago)
 - [Linkdump 27/2024](https://hufschlaeger.net/blog/linkdump-kw27/) (2 years ago)
 - [Caclulating QR-Code URLs for the Actimel/Pokémon lottery](https://hufschlaeger.net/blog/poke-lottery/) (2 years ago)
