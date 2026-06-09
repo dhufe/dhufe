@@ -4,7 +4,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [dhufe/taskchampion-web](https://github.com/dhufe/taskchampion-web) -  (2 days ago)
+- [dhufe/taskchampion-web](https://github.com/dhufe/taskchampion-web) -  (3 days ago)
 - [dhufe/IngestListApiWrapper](https://github.com/dhufe/IngestListApiWrapper) -  (2 months ago)
 - [hufschlaeger/gitlab-downloader](https://github.com/hufschlaeger/gitlab-downloader) - SImple gitlab downloader written in go.  (2 months ago)
 - [hufschlaeger/gitlab-tasks-exporter](https://github.com/hufschlaeger/gitlab-tasks-exporter) - Export GitLab issues into either a Markdown report or sync it directly into Todoist as tasks (2 months ago)
@@ -12,7 +12,7 @@
 - [dhufe/gitlab-metrics-collector](https://github.com/dhufe/gitlab-metrics-collector) - 📊 A metrics scraper for Gitlab  (2 months ago)
 - [dhufe/prometheus_fastapi_test](https://github.com/dhufe/prometheus_fastapi_test) -  (3 months ago)
 - [hufschlaeger/ansible-soap](https://github.com/hufschlaeger/ansible-soap) - SOAP module for Ansible (6 months ago)
-- [KarstenSuess/design_pattern_example](https://github.com/KarstenSuess/design_pattern_example) -  (6 months ago)
+- [KarstenSuess/design_pattern_example](https://github.com/KarstenSuess/design_pattern_example) -  (7 months ago)
 - [hufschlaeger/ansible-dracoon](https://github.com/hufschlaeger/ansible-dracoon) - Dracoon collection for ansible (7 months ago)
 
 #### 🌱 My latest projects
@@ -31,7 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add Justfile for building and pushing container images](https://github.com/Landesarchiv-Thueringen/borg/pull/2) on [Landesarchiv-Thueringen/borg](https://github.com/Landesarchiv-Thueringen/borg) (1 month ago)
+- [Add Justfile for building and pushing container images](https://github.com/Landesarchiv-Thueringen/borg/pull/2) on [Landesarchiv-Thueringen/borg](https://github.com/Landesarchiv-Thueringen/borg) (2 months ago)
 - [Add support for xdomea 4.0.0](https://github.com/Landesarchiv-Thueringen/xdomea_toolkit/pull/7) on [Landesarchiv-Thueringen/xdomea_toolkit](https://github.com/Landesarchiv-Thueringen/xdomea_toolkit) (2 months ago)
 - [Fix incorrect XPath expressions in config.py](https://github.com/Landesarchiv-Thueringen/xdomea_toolkit/pull/6) on [Landesarchiv-Thueringen/xdomea_toolkit](https://github.com/Landesarchiv-Thueringen/xdomea_toolkit) (2 months ago)
 - [Add HTTP/HTTPS proxy support to client configuration](https://github.com/GothenburgBitFactory/taskchampion/pull/683) on [GothenburgBitFactory/taskchampion](https://github.com/GothenburgBitFactory/taskchampion) (3 months ago)
@@ -67,9 +67,9 @@
 
 #### ⭐ Recent Stars
 
-- [barnes-c/garmin_exporter](https://github.com/barnes-c/garmin_exporter) - Exporter for Garmin Connect health and training metrics (2 days ago)
-- [barnes-c/go-garminconnect](https://github.com/barnes-c/go-garminconnect) - Go API wrapper for Garmin Connect to get metrics and set activities (2 days ago)
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites. (4 days ago)
+- [barnes-c/garmin_exporter](https://github.com/barnes-c/garmin_exporter) - Exporter for Garmin Connect health and training metrics (3 days ago)
+- [barnes-c/go-garminconnect](https://github.com/barnes-c/go-garminconnect) - Go API wrapper for Garmin Connect to get metrics and set activities (3 days ago)
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites. (5 days ago)
 - [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo (3 weeks ago)
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (1 month ago)
 - [Landesarchiv-Thueringen/x-man](https://github.com/Landesarchiv-Thueringen/x-man) - Ansicht, Bewertung und Archivierung von xdomea Aussonderungsnachrichten (2 months ago)
