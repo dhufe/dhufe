@@ -4,7 +4,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [dhufe/taskchampion-web](https://github.com/dhufe/taskchampion-web) -  (3 days ago)
+- [dhufe/taskchampion-web](https://github.com/dhufe/taskchampion-web) -  (4 days ago)
 - [dhufe/IngestListApiWrapper](https://github.com/dhufe/IngestListApiWrapper) -  (2 months ago)
 - [hufschlaeger/gitlab-downloader](https://github.com/hufschlaeger/gitlab-downloader) - SImple gitlab downloader written in go.  (2 months ago)
 - [hufschlaeger/gitlab-tasks-exporter](https://github.com/hufschlaeger/gitlab-tasks-exporter) - Export GitLab issues into either a Markdown report or sync it directly into Todoist as tasks (2 months ago)
@@ -67,9 +67,9 @@
 
 #### ⭐ Recent Stars
 
-- [barnes-c/garmin_exporter](https://github.com/barnes-c/garmin_exporter) - Exporter for Garmin Connect health and training metrics (3 days ago)
-- [barnes-c/go-garminconnect](https://github.com/barnes-c/go-garminconnect) - Go API wrapper for Garmin Connect to get metrics and set activities (3 days ago)
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites. (5 days ago)
+- [barnes-c/garmin_exporter](https://github.com/barnes-c/garmin_exporter) - Exporter for Garmin Connect health and training metrics (4 days ago)
+- [barnes-c/go-garminconnect](https://github.com/barnes-c/go-garminconnect) - Go API wrapper for Garmin Connect to get metrics and set activities (4 days ago)
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites. (6 days ago)
 - [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo (3 weeks ago)
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (1 month ago)
 - [Landesarchiv-Thueringen/x-man](https://github.com/Landesarchiv-Thueringen/x-man) - Ansicht, Bewertung und Archivierung von xdomea Aussonderungsnachrichten (2 months ago)
