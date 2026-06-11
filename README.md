@@ -4,7 +4,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [dhufe/taskchampion-web](https://github.com/dhufe/taskchampion-web) -  (4 days ago)
+- [dhufe/taskchampion-web](https://github.com/dhufe/taskchampion-web) -  (5 days ago)
 - [hufschlaeger/gitlab-downloader](https://github.com/hufschlaeger/gitlab-downloader) - SImple gitlab downloader written in go.  (2 months ago)
 - [hufschlaeger/gitlab-tasks-exporter](https://github.com/hufschlaeger/gitlab-tasks-exporter) - Export GitLab issues into either a Markdown report or sync it directly into Todoist as tasks (2 months ago)
 - [dhufe/markscribe](https://github.com/dhufe/markscribe) - Markdown scribe with template-engine and Git(Hub) & RSS powers (2 months ago)
@@ -34,8 +34,8 @@
 - [Add Justfile for building and pushing container images](https://github.com/Landesarchiv-Thueringen/borg/pull/2) on [Landesarchiv-Thueringen/borg](https://github.com/Landesarchiv-Thueringen/borg) (2 months ago)
 - [Add support for xdomea 4.0.0](https://github.com/Landesarchiv-Thueringen/xdomea_toolkit/pull/7) on [Landesarchiv-Thueringen/xdomea_toolkit](https://github.com/Landesarchiv-Thueringen/xdomea_toolkit) (2 months ago)
 - [Fix incorrect XPath expressions in config.py](https://github.com/Landesarchiv-Thueringen/xdomea_toolkit/pull/6) on [Landesarchiv-Thueringen/xdomea_toolkit](https://github.com/Landesarchiv-Thueringen/xdomea_toolkit) (2 months ago)
-- [Add HTTP/HTTPS proxy support to client configuration](https://github.com/GothenburgBitFactory/taskchampion/pull/683) on [GothenburgBitFactory/taskchampion](https://github.com/GothenburgBitFactory/taskchampion) (3 months ago)
-- [Gitlab worker fails because index out of range](https://github.com/GothenburgBitFactory/bugwarrior/pull/1184) on [GothenburgBitFactory/bugwarrior](https://github.com/GothenburgBitFactory/bugwarrior) (3 months ago)
+- [Add HTTP/HTTPS proxy support to client configuration](https://github.com/GothenburgBitFactory/taskchampion/pull/683) on [GothenburgBitFactory/taskchampion](https://github.com/GothenburgBitFactory/taskchampion) (4 months ago)
+- [Gitlab worker fails because index out of range](https://github.com/GothenburgBitFactory/bugwarrior/pull/1184) on [GothenburgBitFactory/bugwarrior](https://github.com/GothenburgBitFactory/bugwarrior) (4 months ago)
 - [Improve compatibility to memos 0.25.3.](https://github.com/mudkipme/mortis/pull/9) on [mudkipme/mortis](https://github.com/mudkipme/mortis) (6 months ago)
 - [Update release workflow to include manual release notes](https://github.com/hufschlaeger/gitlab-tasks-exporter/pull/2) on [hufschlaeger/gitlab-tasks-exporter](https://github.com/hufschlaeger/gitlab-tasks-exporter) (8 months ago)
 - [Create GitHub repo](https://github.com/hufschlaeger/gitlab-tasks-exporter/pull/1) on [hufschlaeger/gitlab-tasks-exporter](https://github.com/hufschlaeger/gitlab-tasks-exporter) (8 months ago)
@@ -67,9 +67,9 @@
 
 #### ⭐ Recent Stars
 
-- [barnes-c/garmin_exporter](https://github.com/barnes-c/garmin_exporter) - Exporter for Garmin Connect health and training metrics (4 days ago)
-- [barnes-c/go-garminconnect](https://github.com/barnes-c/go-garminconnect) - Go API wrapper for Garmin Connect to get metrics and set activities (4 days ago)
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites. (6 days ago)
+- [barnes-c/garmin_exporter](https://github.com/barnes-c/garmin_exporter) - Exporter for Garmin Connect health and training metrics (5 days ago)
+- [barnes-c/go-garminconnect](https://github.com/barnes-c/go-garminconnect) - Go API wrapper for Garmin Connect to get metrics and set activities (5 days ago)
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites. (1 week ago)
 - [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo (3 weeks ago)
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (1 month ago)
 - [Landesarchiv-Thueringen/x-man](https://github.com/Landesarchiv-Thueringen/x-man) - Ansicht, Bewertung und Archivierung von xdomea Aussonderungsnachrichten (2 months ago)
