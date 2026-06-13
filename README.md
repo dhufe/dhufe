@@ -4,7 +4,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [dhufe/taskchampion-web](https://github.com/dhufe/taskchampion-web) -  (6 days ago)
+- [dhufe/taskchampion-web](https://github.com/dhufe/taskchampion-web) -  (1 week ago)
 - [dhufe/markscribe](https://github.com/dhufe/markscribe) - Markdown scribe with template-engine and Git(Hub) & RSS powers (2 months ago)
 - [hufschlaeger/ansible-soap](https://github.com/hufschlaeger/ansible-soap) - SOAP module for Ansible (6 months ago)
 - [KarstenSuess/design_pattern_example](https://github.com/KarstenSuess/design_pattern_example) -  (7 months ago)
@@ -67,8 +67,8 @@
 
 #### ⭐ Recent Stars
 
-- [barnes-c/garmin_exporter](https://github.com/barnes-c/garmin_exporter) - Exporter for Garmin Connect health and training metrics (6 days ago)
-- [barnes-c/go-garminconnect](https://github.com/barnes-c/go-garminconnect) - Go API wrapper for Garmin Connect to get metrics and set activities (6 days ago)
+- [barnes-c/garmin_exporter](https://github.com/barnes-c/garmin_exporter) - Exporter for Garmin Connect health and training metrics (1 week ago)
+- [barnes-c/go-garminconnect](https://github.com/barnes-c/go-garminconnect) - Go API wrapper for Garmin Connect to get metrics and set activities (1 week ago)
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites. (1 week ago)
 - [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo (4 weeks ago)
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (1 month ago)
