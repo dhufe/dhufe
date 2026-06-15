@@ -49,7 +49,7 @@
 
 #### 📓 Gists I wrote
 
-- [Arch checkup](https://gist.github.com/1a02867d5e91d079747447d42e8304fd) (1 day ago)
+- [Arch checkup](https://gist.github.com/1a02867d5e91d079747447d42e8304fd) (2 days ago)
 - [GEMA gpt](https://gist.github.com/de65035bbd1beb90f4d4e10fe5e2ce06) (1 month ago)
 - [MS8607 sensor readings (humidity, temperature and ambient pressure) in python](https://gist.github.com/e536efcbcf6dde544f20d1cade238dc3) (8 years ago)
 
