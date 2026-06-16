@@ -6,7 +6,6 @@
 
 - [dhufe/taskchampion-web](https://github.com/dhufe/taskchampion-web) -  (1 week ago)
 - [dhufe/markscribe](https://github.com/dhufe/markscribe) - Markdown scribe with template-engine and Git(Hub) & RSS powers (2 months ago)
-- [hufschlaeger/ansible-soap](https://github.com/hufschlaeger/ansible-soap) - SOAP module for Ansible (6 months ago)
 - [KarstenSuess/design_pattern_example](https://github.com/KarstenSuess/design_pattern_example) -  (7 months ago)
 - [hufschlaeger/ansible-dracoon](https://github.com/hufschlaeger/ansible-dracoon) - Dracoon collection for ansible (7 months ago)
 - [hufschlaeger/.github](https://github.com/hufschlaeger/.github) - Organisation info (7 months ago)
@@ -14,6 +13,7 @@
 - [dhufe/tasky-aur](https://github.com/dhufe/tasky-aur) -  (11 months ago)
 - [dhufe/java_playground](https://github.com/dhufe/java_playground) - Just for playing with JAVA snippets. (1 year ago)
 - [dhufe/golang_playground](https://github.com/dhufe/golang_playground) -  (1 year ago)
+- [dhufe/codewars](https://github.com/dhufe/codewars) - 🍻 CodeWars Solutions (1 year ago)
 
 #### 🌱 My latest projects
 
