@@ -9,7 +9,7 @@
 - [KarstenSuess/design_pattern_example](https://github.com/KarstenSuess/design_pattern_example) -  (7 months ago)
 - [hufschlaeger/ansible-dracoon](https://github.com/hufschlaeger/ansible-dracoon) - Dracoon collection for ansible (7 months ago)
 - [hufschlaeger/.github](https://github.com/hufschlaeger/.github) - Organisation info (7 months ago)
-- [Brandenburgisches-Landeshauptarchiv/.github](https://github.com/Brandenburgisches-Landeshauptarchiv/.github) -  (11 months ago)
+- [Brandenburgisches-Landeshauptarchiv/.github](https://github.com/Brandenburgisches-Landeshauptarchiv/.github) -  (1 year ago)
 - [dhufe/tasky-aur](https://github.com/dhufe/tasky-aur) -  (1 year ago)
 - [dhufe/java_playground](https://github.com/dhufe/java_playground) - Just for playing with JAVA snippets. (1 year ago)
 - [dhufe/golang_playground](https://github.com/dhufe/golang_playground) -  (1 year ago)
@@ -45,7 +45,7 @@
 #### 🔨 My recent Issues
 
 - [Landesarchiv-Thueringen/xdomea_toolkit](https://github.com/Landesarchiv-Thueringen/xdomea_toolkit) - FutureWarning for incorrect XPath searches in config.py (2 months ago)
-- [ansible/galaxy](https://github.com/ansible/galaxy) - Request namespace: hufschlaeger (7 months ago)
+- [ansible/galaxy](https://github.com/ansible/galaxy) - Request namespace: hufschlaeger (8 months ago)
 
 #### 📓 Gists I wrote
 
