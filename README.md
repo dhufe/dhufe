@@ -70,10 +70,10 @@
 
 - [barnes-c/garmin_exporter](https://github.com/barnes-c/garmin_exporter) - OTel-native Prometheus exporter for Garmin Connect. (2 weeks ago)
 - [barnes-c/go-garminconnect](https://github.com/barnes-c/go-garminconnect) - Go API wrapper for Garmin Connect to get metrics and set activities (2 weeks ago)
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites. (2 weeks ago)
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites. (3 weeks ago)
 - [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo (1 month ago)
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (2 months ago)
-- [Landesarchiv-Thueringen/x-man](https://github.com/Landesarchiv-Thueringen/x-man) - Ansicht, Bewertung und Archivierung von xdomea Aussonderungsnachrichten (2 months ago)
+- [Landesarchiv-Thueringen/x-man](https://github.com/Landesarchiv-Thueringen/x-man) - Ansicht, Bewertung und Archivierung von xdomea Aussonderungsnachrichten (3 months ago)
 - [Landesarchiv-Thueringen/xdomea_toolkit](https://github.com/Landesarchiv-Thueringen/xdomea_toolkit) - xdomea-Toolkit für Testaussonderungsnachrichten (3 months ago)
 - [stoeps13/ublue-stoeps](https://github.com/stoeps13/ublue-stoeps) - Starting point for making your own OS image (3 months ago)
 - [trykuna/app](https://github.com/trykuna/app) - The source code for Kuna iOS (6 months ago)
