@@ -24,10 +24,10 @@
 - [dhufe/golang_playground](https://github.com/dhufe/golang_playground) - 
 - [dhufe/go-ssd1305](https://github.com/dhufe/go-ssd1305) - Simply control a GLCD with go.
 - [dhufe/mkdocs-demo](https://github.com/dhufe/mkdocs-demo) - 
-- [dhufe/docker-python-app](https://github.com/dhufe/docker-python-app) - 🐳 Docker image to deploy a 🐍 Python app hosted on a Git repository
 - [dhufe/java_playground](https://github.com/dhufe/java_playground) - Just for playing with JAVA snippets.
 - [dhufe/codewars](https://github.com/dhufe/codewars) - 🍻 CodeWars Solutions
-- [dhufe/blha_application](https://github.com/dhufe/blha_application) - 
+- [dhufe/cpp_challenge](https://github.com/dhufe/cpp_challenge) - Source code for the c++ challenge
+- [dhufe/MATLAB](https://github.com/dhufe/MATLAB) - MATLAB helper scripts and functions
 
 #### 🔨 My recent Pull Requests
 
