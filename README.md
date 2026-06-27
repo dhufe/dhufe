@@ -4,7 +4,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [dhufe/taskchampion-web](https://github.com/dhufe/taskchampion-web) -  (2 weeks ago)
+- [dhufe/taskchampion-web](https://github.com/dhufe/taskchampion-web) -  (3 weeks ago)
 - [dhufe/markscribe](https://github.com/dhufe/markscribe) - Markdown scribe with template-engine and Git(Hub) & RSS powers (3 months ago)
 - [KarstenSuess/design_pattern_example](https://github.com/KarstenSuess/design_pattern_example) -  (7 months ago)
 - [hufschlaeger/ansible-dracoon](https://github.com/hufschlaeger/ansible-dracoon) - Dracoon collection for ansible (8 months ago)
@@ -36,7 +36,7 @@
 - [Fix incorrect XPath expressions in config.py](https://github.com/Landesarchiv-Thueringen/xdomea_toolkit/pull/6) on [Landesarchiv-Thueringen/xdomea_toolkit](https://github.com/Landesarchiv-Thueringen/xdomea_toolkit) (3 months ago)
 - [Add HTTP/HTTPS proxy support to client configuration](https://github.com/GothenburgBitFactory/taskchampion/pull/683) on [GothenburgBitFactory/taskchampion](https://github.com/GothenburgBitFactory/taskchampion) (4 months ago)
 - [Gitlab worker fails because index out of range](https://github.com/GothenburgBitFactory/bugwarrior/pull/1184) on [GothenburgBitFactory/bugwarrior](https://github.com/GothenburgBitFactory/bugwarrior) (4 months ago)
-- [Improve compatibility to memos 0.25.3.](https://github.com/mudkipme/mortis/pull/9) on [mudkipme/mortis](https://github.com/mudkipme/mortis) (6 months ago)
+- [Improve compatibility to memos 0.25.3.](https://github.com/mudkipme/mortis/pull/9) on [mudkipme/mortis](https://github.com/mudkipme/mortis) (7 months ago)
 - [Separate cli functionality and data structure.](https://github.com/shahriaarrr/Tasky/pull/22) on [shahriaarrr/Tasky](https://github.com/shahriaarrr/Tasky) (1 year ago)
 - [Adding RenderString for render emoticons inside the footer.](https://github.com/HEIGE-PCloud/DoIt/pull/1446) on [HEIGE-PCloud/DoIt](https://github.com/HEIGE-PCloud/DoIt) (1 year ago)
 - [recentStars does not return](https://github.com/muesli/markscribe/pull/99) on [muesli/markscribe](https://github.com/muesli/markscribe) (1 year ago)
@@ -49,7 +49,7 @@
 
 #### 📓 Gists I wrote
 
-- [Arch checkup](https://gist.github.com/1a02867d5e91d079747447d42e8304fd) (1 week ago)
+- [Arch checkup](https://gist.github.com/1a02867d5e91d079747447d42e8304fd) (2 weeks ago)
 - [GEMA gpt](https://gist.github.com/de65035bbd1beb90f4d4e10fe5e2ce06) (2 months ago)
 - [MS8607 sensor readings (humidity, temperature and ambient pressure) in python](https://gist.github.com/e536efcbcf6dde544f20d1cade238dc3) (8 years ago)
 
@@ -68,8 +68,8 @@
 
 #### ⭐ Recent Stars
 
-- [barnes-c/garmin_exporter](https://github.com/barnes-c/garmin_exporter) - OTel-native Prometheus exporter for Garmin Connect. (2 weeks ago)
-- [barnes-c/go-garminconnect](https://github.com/barnes-c/go-garminconnect) - Go API wrapper for Garmin Connect to get metrics and set activities (2 weeks ago)
+- [barnes-c/garmin_exporter](https://github.com/barnes-c/garmin_exporter) - OTel-native Prometheus exporter for Garmin Connect. (3 weeks ago)
+- [barnes-c/go-garminconnect](https://github.com/barnes-c/go-garminconnect) - Go API wrapper for Garmin Connect to get metrics and set activities (3 weeks ago)
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites. (3 weeks ago)
 - [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo (1 month ago)
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (2 months ago)
