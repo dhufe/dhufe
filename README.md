@@ -70,20 +70,20 @@
 
 - [barnes-c/garmin_exporter](https://github.com/barnes-c/garmin_exporter) - OTel-native Prometheus exporter for Garmin Connect. (3 weeks ago)
 - [barnes-c/go-garminconnect](https://github.com/barnes-c/go-garminconnect) - Go API wrapper for Garmin Connect to get metrics and set activities (3 weeks ago)
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites. (3 weeks ago)
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites. (4 weeks ago)
 - [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo (1 month ago)
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (2 months ago)
 - [Landesarchiv-Thueringen/x-man](https://github.com/Landesarchiv-Thueringen/x-man) - Ansicht, Bewertung und Archivierung von xdomea Aussonderungsnachrichten (3 months ago)
 - [Landesarchiv-Thueringen/xdomea_toolkit](https://github.com/Landesarchiv-Thueringen/xdomea_toolkit) - xdomea-Toolkit für Testaussonderungsnachrichten (3 months ago)
 - [stoeps13/ublue-stoeps](https://github.com/stoeps13/ublue-stoeps) - Starting point for making your own OS image (3 months ago)
 - [trykuna/app](https://github.com/trykuna/app) - The source code for Kuna iOS (6 months ago)
-- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices. (6 months ago)
+- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices. (7 months ago)
 
 ### 📝 My recent blog posts
 
 
 - [Videos vom CCC mit einem Hugo-shortcode einbetten](https://hufschlaeger.net/blog/short-code-media-ccc-de/) (1 month ago)
-- [macOS vom Schlafen abhalten](https://hufschlaeger.net/blog/citrix-macos-prevent-sleep/) (8 months ago)
+- [macOS vom Schlafen abhalten](https://hufschlaeger.net/blog/citrix-macos-prevent-sleep/) (9 months ago)
 - [Ghostty - terminfo](https://hufschlaeger.net/blog/ghosttty_term/) (9 months ago)
 - [Linkdump 27/2024](https://hufschlaeger.net/blog/linkdump-kw27/) (2 years ago)
 - [Caclulating QR-Code URLs for the Actimel/Pokémon lottery](https://hufschlaeger.net/blog/poke-lottery/) (2 years ago)
